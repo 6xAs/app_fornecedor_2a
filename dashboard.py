@@ -2,17 +2,23 @@
 import streamlit as st
 import pandas as pd
 
-# Caminho do arquivo de vendas
-vendas_path = "database/vendas/vendas.csv"
-
 st.title("📊 Dashboard de Vendas - Fornecedor 2ºA")
 
+# Caminho do CSV
+vendas_path = "database/vendas/vendas.csv"
+
+# Tentar carregar dados
 try:
     df_vendas = pd.read_csv(vendas_path)
 except FileNotFoundError:
+    st.warning("Nenhuma venda registrada ainda.")
     df_vendas = pd.DataFrame()
 
 if not df_vendas.empty:
+    # Conversão de valores, caso necessário
+    for col in ["Valor Total (R$)", "Encargo (R$)", "Valor Unitário (R$)"]:
+        df_vendas[col] = pd.to_numeric(df_vendas[col], errors="coerce").fillna(0.0)
+
     total_vendas = df_vendas["Valor Total (R$)"].sum()
     total_encargos = df_vendas["Encargo (R$)"].sum()
     total_itens = df_vendas["Quantidade"].sum()
@@ -23,7 +29,7 @@ if not df_vendas.empty:
     st.metric("📦 Quantidade Total Vendida", int(total_itens))
     st.metric("💰 Lucro Líquido Estimado (R$)", f"{lucro_liquido:,.2f}")
 
-    st.subheader("📄 Vendas Registradas")
+    st.markdown("### 📋 Detalhes das Vendas")
     st.dataframe(df_vendas)
 else:
-    st.warning("Nenhuma venda registrada ainda.")
+    st.info("Nenhuma venda registrada ainda.")
