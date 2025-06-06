@@ -10,7 +10,7 @@ vendas_dir = "database/vendas"
 os.makedirs(vendas_dir, exist_ok=True)
 
 st.set_page_config(page_title="Fornecedor 2ºA", layout="wide")
-st.title("🛒 Sistema de Compras - Fornecedor 2ºA")
+st.title("🛒 Sistema de Compras - Fornecedores 2ºA")
 
 # Estado do carrinho
 if "carrinho" not in st.session_state:
@@ -25,16 +25,31 @@ except Exception as e:
     st.stop()
 
 # Seleção do produto
-produto_selecionado = st.selectbox("Selecione um produto", df_produtos["Nome do Produto"].unique())
-produto_info = df_produtos[df_produtos["Nome do Produto"] == produto_selecionado].iloc[0]
+
+col1, col2 = st.columns(2)
+with col1:
+    produto_selecionado = st.selectbox("Selecione um produto", df_produtos["Nome do Produto"].unique())
+    produto_info = df_produtos[df_produtos["Nome do Produto"] == produto_selecionado].iloc[0]
+
+with col2:
+    quantidade = st.number_input("Quantidade", min_value=1, step=1)
+
 
 # Exibir detalhes
 st.subheader("📦 Informações do Produto")
-st.write(f"**Categoria:** {produto_info['Categoria']}")
-st.write(f"**Descrição:** {produto_info['Descrição']}")
-st.write(f"**Preço Final (R$):** {produto_info['Preço Final c/ Impostos (R$)']:.2f}")
 
-quantidade = st.number_input("Quantidade", min_value=1, step=1)
+
+# Exibir informações do produto selecionado
+st.write(f"**Categoria** {produto_info['Categoria']}")
+st.write(f"**Descrição:** {produto_info['Descrição']}")
+st.write(f"**Preço Base (R$):** {produto_info['Preço Base (R$)']}") 
+st.write(f"**Impostos (R$):** {produto_info['Imposto de Importação (%)']}")
+st.write(f"**ICMS (%):** {produto_info['ICMS (%)']}")
+st.write(f"**IPI (%):** {produto_info['IPI (%)']}")
+
+## Esse é o cálculo do preço final
+st.markdown(f"### :orange[**Preço Final (R$):** {produto_info['Preço Final c/ Impostos (R$)']:.2f}] ")
+
 
 # Adicionar ao carrinho
 if st.button("➕ Adicionar ao Carrinho"):
@@ -51,14 +66,49 @@ if st.button("➕ Adicionar ao Carrinho"):
     except Exception as e:
         st.error(f"Erro ao adicionar item ao carrinho: {e}")
 
+# Função para formatar o valor preço final
+def formatar_preco(total_geral):
+    return f"{total_geral:,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
+
+def formatar_df_carrinho(df_carrinho):
+    def formatar_preco(valor):
+        return f"{valor:,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
+
+    # Garantir que as colunas de valor sejam numéricas
+    df_carrinho["Valor Unitário (R$)"] = pd.to_numeric(df_carrinho["Valor Unitário (R$)"], errors="coerce")
+    df_carrinho["Valor Total (R$)"] = pd.to_numeric(df_carrinho["Valor Total (R$)"], errors="coerce")
+
+    # Calcular o total geral antes de formatar
+    total_geral = df_carrinho["Valor Total (R$)"].sum()
+
+    # Formatar colunas
+    df_carrinho["Valor Unitário (R$)"] = df_carrinho["Valor Unitário (R$)"].apply(formatar_preco)
+    df_carrinho["Valor Total (R$)"] = df_carrinho["Valor Total (R$)"].apply(formatar_preco)
+
+    # Linha de total geral
+    linha_total = {
+        "Produto": "🧾 TOTAL GERAL",
+        "Categoria": "",
+        "Quantidade": "",
+        "Valor Unitário (R$)": "",
+        "Valor Total (R$)": formatar_preco(total_geral)
+    }
+
+    return pd.concat([df_carrinho, pd.DataFrame([linha_total])], ignore_index=True)
+
 # Mostrar carrinho
 if st.session_state.carrinho:
     st.subheader("🛒 Carrinho de Compras")
     df_carrinho = pd.DataFrame(st.session_state.carrinho)
     total_geral = df_carrinho["Valor Total (R$)"].sum()
     st.dataframe(df_carrinho)
-    st.markdown(f"**💰 Total da Compra: R$ {total_geral:,.2f}**")
+    st.markdown(f"# :green[**💰 Total da Compra: R$ {formatar_preco(total_geral)}**]")
 
+    # Aplicar formatação nas colunas de valor
+    df_carrinho["Valor Unitário (R$)"] = df_carrinho["Valor Unitário (R$)"].apply(formatar_preco)
+    df_carrinho["Valor Total (R$)"] = df_carrinho["Valor Total (R$)"].apply(formatar_preco)
+    
+    
     st.subheader("👤 Finalizar Compra")
     nome = st.text_input("Nome do Comprador")
     empresa = st.text_input("Empresa / Equipe")
