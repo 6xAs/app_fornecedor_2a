@@ -101,14 +101,12 @@ if st.session_state.carrinho:
     st.subheader("🛒 Carrinho de Compras")
     df_carrinho = pd.DataFrame(st.session_state.carrinho)
     total_geral = df_carrinho["Valor Total (R$)"].sum()
-    st.dataframe(df_carrinho)
+    df_carrinho_formatado = formatar_df_carrinho(df_carrinho)
+    st.dataframe(df_carrinho_formatado)
     st.markdown(f"# :green[**💰 Total da Compra: R$ {formatar_preco(total_geral)}**]")
 
-    # Aplicar formatação nas colunas de valor
-    df_carrinho["Valor Unitário (R$)"] = df_carrinho["Valor Unitário (R$)"].apply(formatar_preco)
-    df_carrinho["Valor Total (R$)"] = df_carrinho["Valor Total (R$)"].apply(formatar_preco)
     
-    
+
     st.subheader("👤 Finalizar Compra")
     nome = st.text_input("Nome do Comprador")
     empresa = st.text_input("Empresa / Equipe")
