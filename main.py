@@ -5,12 +5,13 @@ from datetime import datetime
 import os
 
 # Caminhos dos arquivos
-produtos_path = "database/produtos/produtos_completos.csv"
+produtos_path = "database/produtos/produtos_completos_formatado.csv"
 vendas_dir = "database/vendas"
 os.makedirs(vendas_dir, exist_ok=True)
 
 st.set_page_config(page_title="Fornecedor 2ºA", layout="wide")
 st.title("🛒 Sistema de Compras - Fornecedores 2ºA")
+
 
 # Estado do carrinho
 if "carrinho" not in st.session_state:
@@ -23,6 +24,38 @@ try:
 except Exception as e:
     st.error(f"❌ Erro ao carregar produtos: {e}")
     st.stop()
+
+# Função para formatar colunas monetárias
+def formatar_coluna_monetaria(df, colunas):
+    def ajustar_valor(valor):
+        try:
+            valor = float(valor)
+
+            # Corrigir valores inflacionados (ex: 2503.94 que na verdade deveria ser 250.39)
+            if valor > 1000:
+                valor_corrigido = valor / 10
+                if valor_corrigido < 1000:
+                    valor = valor_corrigido
+
+            # Formatação estilo brasileiro
+            valor_formatado = f"{valor:,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
+
+            # Remover ",00" se o valor for inteiro
+            if valor_formatado.endswith(",00"):
+                valor_formatado = valor_formatado.replace(",00", "")
+
+            return valor_formatado
+        except:
+            return valor  # retorna como está se não for possível formatar
+
+    for col in colunas:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce")
+            df[col] = df[col].apply(ajustar_valor)
+    return df
+
+
+
 
 # Seleção do produto
 
@@ -96,52 +129,92 @@ def formatar_df_carrinho(df_carrinho):
 
     return pd.concat([df_carrinho, pd.DataFrame([linha_total])], ignore_index=True)
 
-# Mostrar carrinho
+# Mostrar carrinho com opção de remover
 if st.session_state.carrinho:
     st.subheader("🛒 Carrinho de Compras")
     df_carrinho = pd.DataFrame(st.session_state.carrinho)
-    total_geral = df_carrinho["Valor Total (R$)"].sum()
-    df_carrinho_formatado = formatar_df_carrinho(df_carrinho)
-    st.dataframe(df_carrinho_formatado)
-    st.markdown(f"# :green[**💰 Total da Compra: R$ {formatar_preco(total_geral)}**]")
 
-    
+    # Adicionar coluna de remoção
+    df_carrinho["Remover"] = False
 
-    st.subheader("👤 Finalizar Compra")
-    nome = st.text_input("Nome do Comprador")
-    empresa = st.text_input("Empresa / Equipe")
-    email = st.text_input("Email")
-    encargo_percentual = 0.20
+    # Editor interativo com checkbox para exclusão
+    editado = st.data_editor(
+        df_carrinho,
+        column_config={
+            "Remover": st.column_config.CheckboxColumn("❌ Excluir Produto")
+        },
+        disabled=["Produto", "Categoria", "Quantidade", "Valor Unitário (R$)", "Valor Total (R$)"],
+        hide_index=True,
+        use_container_width=True,
+        key="editor_remocao"
+    )
 
-    if st.button("💾 Finalizar Pedido"):
-        if not nome or not empresa or not email:
-            st.warning("⚠️ Preencha todos os campos antes de finalizar.")
-        else:
-            try:
-                registros = []
-                for item in st.session_state.carrinho:
-                    nova_venda = {
-                        "Data da Compra": datetime.today().strftime('%Y-%m-%d'),
-                        "Nome do Comprador": nome,
-                        "Empresa": empresa,
-                        "Email": email,
-                        "Produto": item["Produto"],
-                        "Categoria": item["Categoria"],
-                        "Quantidade": item["Quantidade"],
-                        "Valor Unitário (R$)": item["Valor Unitário (R$)"],
-                        "Valor Total (R$)": item["Valor Total (R$)"],
-                        "Encargo (%)": encargo_percentual * 100,
-                        "Encargo (R$)": item["Valor Total (R$)"] * encargo_percentual
-                    }
-                    registros.append(nova_venda)
+    # Verifica itens removidos
+    removidos = editado[editado["Remover"] == True]["Produto"].tolist()
+    if removidos:
+        st.warning(f"🗑️ Os seguintes produtos foram removidos do carrinho: {', '.join(removidos)}")
 
-                df_vendas = pd.DataFrame(registros)
-                nome_arquivo = f"{vendas_dir}/venda_{nome.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d%H%M%S')}.csv"
-                df_vendas.to_csv(nome_arquivo, index=False)
+    # Atualiza o carrinho
+    df_filtrado = editado[editado["Remover"] == False].drop(columns=["Remover"])
+    st.session_state.carrinho = df_filtrado.to_dict(orient="records")
 
-                st.success(f"✅ Pedido finalizado com sucesso! Arquivo salvo em: {nome_arquivo}")
-                st.session_state.carrinho = []
-            except Exception as e:
-                st.error(f"Erro ao registrar vendas: {e}")
+    # Recalcular total
+    if not df_filtrado.empty:
+        total_geral = df_filtrado["Valor Total (R$)"].sum()
+        st.markdown(f"# :green[**💰 Total da Compra: R$ {formatar_preco(total_geral)}**]")
+
+        # Formulário do comprador
+        st.subheader("👤 Finalizar Compra")
+        nome = st.text_input("Nome do Comprador")
+        empresa = st.text_input("Empresa / Equipe")
+        email = st.text_input("Email")
+        encargo_percentual = 0.20
+        
+        if st.button("💾 Finalizar Pedido"):
+            if not nome or not empresa or not email:
+                st.warning("⚠️ Preencha todos os campos antes de finalizar.")
+            else:
+                try:
+                    registros = []
+                    for item in st.session_state.carrinho:
+                        nova_venda = {
+                            "Data da Compra": datetime.today().strftime('%Y-%m-%d'),
+                            "Nome do Comprador": nome,
+                            "Empresa": empresa,
+                            "Email": email,
+                            "Produto": item["Produto"],
+                            "Categoria": item["Categoria"],
+                            "Quantidade": item["Quantidade"],
+                            "Valor Unitário (R$)": item["Valor Unitário (R$)"],
+                            "Valor Total (R$)": item["Valor Total (R$)"],
+                            "Encargo (%)": encargo_percentual * 100,
+                            "Encargo (R$)": item["Valor Total (R$)"] * encargo_percentual
+                        }
+                        registros.append(nova_venda)
+
+                    df_vendas = pd.DataFrame(registros)
+                    nome_arquivo = f"venda_{nome.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d%H%M%S')}.csv"
+                    caminho_arquivo = os.path.join(vendas_dir, nome_arquivo)
+                    df_vendas.to_csv(caminho_arquivo, index=False)
+
+                    st.success("✅ Pedido finalizado com sucesso!")
+
+                    # Botão de download do CSV
+                    with open(caminho_arquivo, "rb") as file:
+                        st.download_button(
+                            label="⬇️ Baixar Pedido em CSV",
+                            data=file,
+                            file_name=nome_arquivo,
+                            mime="text/csv"
+                        )
+
+                    # Limpar o carrinho
+                    st.session_state.carrinho = []
+
+                except Exception as e:
+                    st.error(f"Erro ao registrar vendas: {e}")
+
+    else:
+        st.info("Seu carrinho está vazio.")
 else:
     st.info("Seu carrinho está vazio.")
