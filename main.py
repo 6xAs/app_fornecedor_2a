@@ -209,6 +209,9 @@ if st.session_state.carrinho:
                     df_vendas.to_csv(caminho_arquivo, index=False)
 
                     st.success("✅ Pedido finalizado com sucesso!")
+                    # Email para envio do csv
+                    st.header("Envie o csv nesse email abaixo: ")
+                    st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
 
                     with open(caminho_arquivo, "rb") as file:
                         st.download_button(
@@ -231,5 +234,3 @@ else:
     st.info("Seu carrinho está vazio.")
 
 
-st.header("Envie o csv nesse email abaixo: ")
-st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
