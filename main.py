@@ -177,6 +177,17 @@ if st.session_state.carrinho:
                 try:
                     registros = []
                     for item in st.session_state.carrinho:
+                        # Conversão segura para float
+                        valor_unit = item["Valor Unitário (R$)"]
+                        if isinstance(valor_unit, str):
+                            valor_unit = float(str(valor_unit).replace(".", "").replace(",", "."))
+
+                        valor_total = item["Valor Total (R$)"]
+                        if isinstance(valor_total, str):
+                            valor_total = float(str(valor_total).replace(".", "").replace(",", "."))
+
+                        encargo = round(valor_total * encargo_percentual, 2)
+
                         nova_venda = {
                             "Data da Compra": datetime.today().strftime('%Y-%m-%d'),
                             "Nome do Comprador": nome,
@@ -185,21 +196,20 @@ if st.session_state.carrinho:
                             "Produto": item["Produto"],
                             "Categoria": item["Categoria"],
                             "Quantidade": item["Quantidade"],
-                            "Valor Unitário (R$)": item["Valor Unitário (R$)"],
-                            "Valor Total (R$)": item["Valor Total (R$)"],
+                            "Valor Unitário (R$)": valor_unit,
+                            "Valor Total (R$)": valor_total,
                             "Encargo (%)": encargo_percentual * 100,
-                            "Encargo (R$)": item["Valor Total (R$)"] * encargo_percentual
+                            "Encargo (R$)": encargo
                         }
                         registros.append(nova_venda)
 
                     df_vendas = pd.DataFrame(registros)
-                    nome_arquivo = f"venda_{nome.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d%H%M%S')}.csv"
+                    nome_arquivo = f"venda_{nome.replace(' ', '_').upper()}_{datetime.now().strftime('%Y%m%d%H%M%S')}.csv"
                     caminho_arquivo = os.path.join(vendas_dir, nome_arquivo)
                     df_vendas.to_csv(caminho_arquivo, index=False)
 
                     st.success("✅ Pedido finalizado com sucesso!")
 
-                    # Botão de download do CSV
                     with open(caminho_arquivo, "rb") as file:
                         st.download_button(
                             label="⬇️ Baixar Pedido em CSV",
@@ -208,13 +218,18 @@ if st.session_state.carrinho:
                             mime="text/csv"
                         )
 
-                    # Limpar o carrinho
                     st.session_state.carrinho = []
 
                 except Exception as e:
                     st.error(f"Erro ao registrar vendas: {e}")
 
+
+
     else:
         st.info("Seu carrinho está vazio.")
 else:
     st.info("Seu carrinho está vazio.")
+
+
+st.header("Envie o csv nesse email abaixo: ")
+st.link_button("anderson.seixas@ifro.edu.br", "anderson.seixas@ifro.edu.br")
