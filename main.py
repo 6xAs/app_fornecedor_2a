@@ -11,6 +11,7 @@ os.makedirs(vendas_dir, exist_ok=True)
 
 st.set_page_config(page_title="Fornecedor 2ºA", layout="wide")
 st.title("🛒 Sistema de Compras - Fornecedores 2ºA 🟠")
+st.title("E-mail: suporte.tds.systems@gmail.com")
 
 
 # Estado do carrinho
@@ -211,7 +212,7 @@ if st.session_state.carrinho:
                     st.success("✅ Pedido finalizado com sucesso!")
                     # Email para envio do csv
                     st.header("Envie o csv nesse email abaixo: ")
-                    st.link_button("suporte.tdsg.systemas@gmail.com",)
+                    st.link_button("suporte.tdsg.systemas@gmail.com")
 
                     with open(caminho_arquivo, "rb") as file:
                         st.download_button(
