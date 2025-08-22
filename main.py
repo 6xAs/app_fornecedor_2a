@@ -212,7 +212,7 @@ if st.session_state.carrinho:
                     st.success("✅ Pedido finalizado com sucesso!")
                     # Email para envio do csv
                     st.header("Envie o csv nesse email abaixo: ")
-                    st.link_button("suporte.tdsg.systemas@gmail.com")
+                    st.link_button("suporte.tdsg.systemas@gmail.com", "suporte.tdsg.systemas@gmail.com")
 
                     with open(caminho_arquivo, "rb") as file:
                         st.download_button(
