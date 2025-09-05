@@ -90,6 +90,14 @@ def parse_moeda_brl(valor):
         return 0.0
 
 
+# Utilitário: formata número como moeda BR (exibe com separadores pt-BR)
+def formatar_preco(valor):
+    try:
+        return f"{float(valor):,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
+    except Exception:
+        return str(valor)
+
+
 # Exibir informações do produto selecionado
 st.write(f"**Categoria** {produto_info['Categoria']}")
 st.write(f"**Descrição:** {produto_info['Descrição']}")
@@ -119,14 +127,7 @@ if st.button("➕ Adicionar ao Carrinho"):
     except Exception as e:
         st.error(f"Erro ao adicionar item ao carrinho: {e}")
 
-# Função para formatar o valor preço final
-def formatar_preco(total_geral):
-    return f"{total_geral:,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
-
 def formatar_df_carrinho(df_carrinho):
-    def formatar_preco(valor):
-        return f"{valor:,.2f}".replace(",", "v").replace(".", ",").replace("v", ".")
-
     # Garantir que as colunas de valor sejam numéricas
     df_carrinho["Valor Unitário (R$)"] = pd.to_numeric(df_carrinho["Valor Unitário (R$)"], errors="coerce")
     df_carrinho["Valor Total (R$)"] = pd.to_numeric(df_carrinho["Valor Total (R$)"], errors="coerce")
@@ -252,4 +253,3 @@ if st.session_state.carrinho:
         st.info("Seu carrinho está vazio.")
 else:
     st.info("Seu carrinho está vazio.")
-
