@@ -1,551 +1,641 @@
 Nome do Produto,Categoria,Descrição,Preço Base (R$),Imposto de Importação (%),ICMS (%),IPI (%),Preço Final c/ Impostos (R$)
-Processador Eos 1825,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",587.54,9.13,13.34,11.05,784.48
-Processador Unde 8936,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",804.29,11.33,12.18,3.28,1019.76
-Processador Ducimus 8280,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2607.07,13.42,16.3,10.52,3656.15
-Processador Reprehenderit 6874,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",1271.54,13.84,16.86,0.1,1663.17
-Processador Corrupti 2616,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2943.49,10.1,12.93,14.36,4044.06
-Processador Aliquam 5515,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",857.74,10.7,14.15,5.16,1115.15
-Processador Quas 4334,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3324.95,15.95,15.22,14.6,4846.78
-Processador Culpa 6202,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",775.8,9.4,15.77,13.28,1074.1
-Processador Atque 5926,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2520.73,15.57,12.27,3.42,3308.71
-Processador Consequuntur 4742,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3948.28,17.83,17.2,5.7,5556.41
-Processador Praesentium 7429,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2724.9,10.47,14.22,3.14,3483.24
-Processador Consequatur 4375,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2956.37,15.25,12.43,9.52,4056.14
-Processador Deleniti 8752,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3051.94,7.45,14.28,14.84,4168.03
-Processador Optio 9126,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",1268.65,9.86,16.61,0.84,1615.12
-Processador Reprehenderit 526,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3317.66,11.02,12.4,13.7,4549.18
-Processador Natus 9293,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3567.29,9.72,15.93,5.93,4693.84
-Processador Deleniti 7518,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",1000.05,7.09,16.47,8.08,1316.47
-Processador Veritatis 9578,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",1999.52,13.75,14.17,14.96,2856.91
-Processador Eveniet 2267,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2283.34,6.36,12.28,1.64,2746.4
-Processador Incidunt 2622,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3272.28,11.33,12.38,5.72,4235.31
-Processador Ullam 7669,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2351.9,19.57,17.16,0.17,3219.75
-Processador Dolore 1877,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",2885.99,13.05,13.6,9.61,3932.45
-Processador Voluptatem 1828,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",1527.25,7.37,12.02,10.83,1988.78
-Processador Illum 4316,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3901.61,16.43,15.05,1.6,5192.26
-Processador Expedita 4890,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.",3445.84,12.61,13.19,5.61,4528.18
-Placa de Vídeo Voluptatibus 2647,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",4236.27,16.68,15.18,0.01,5586.37
-Placa de Vídeo Recusandae 5311,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",3931.63,6.68,14.18,14.78,5332.86
-Placa de Vídeo Architecto 5039,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2436.71,8.61,15.4,1.18,3050.52
-Placa de Vídeo Tenetur 7963,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",5896.14,19.67,15.2,1.89,8063.56
-Placa de Vídeo Suscipit 7788,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",6681.09,7.48,15.17,9.1,8802.34
-Placa de Vídeo Quas 3471,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",6573.48,16.33,16.14,10.69,9410.59
-Placa de Vídeo Dolore 6538,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",6970.9,14.75,14.63,7.76,9559.89
-Placa de Vídeo Repellat 1983,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2487.43,5.96,12.13,8.31,3144.11
-Placa de Vídeo Accusantium 9642,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2321.3,6.06,15.79,3.43,2908.12
-Placa de Vídeo Quisquam 515,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",6157.81,6.06,13.43,10.03,7975.6
-Placa de Vídeo Possimus 3511,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",4235.4,15.85,17.29,8.64,6004.95
-Placa de Vídeo Facilis 3982,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",5707.72,17.11,13.14,1.45,7517.07
-Placa de Vídeo Soluta 7063,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",3125.79,11.17,17.18,0.81,4037.27
-Placa de Vídeo Possimus 1613,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1363.68,15.92,16.8,1.64,1832.24
-Placa de Vídeo Suscipit 3140,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2141.25,11.73,14.53,4.18,2793.05
-Placa de Vídeo Voluptas 4093,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",6246.92,6.13,16.85,12.84,8484.57
-Placa de Vídeo Itaque 1605,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1303.53,19.99,17.02,14.53,1975.37
-Placa de Vídeo Facilis 3873,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1997.87,12.28,13.28,6.02,2628.8
-Placa de Vídeo Ipsum 961,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1987.82,5.03,14.34,13.9,2649.17
-Placa de Vídeo Distinctio 7455,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2711.5,15.45,16.38,11.75,3893.17
-Placa de Vídeo Ab 7974,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1928.78,9.45,17.81,8.69,2622.18
-Placa de Vídeo Aliquam 8884,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1365.75,9.7,12.3,7.15,1763.87
-Placa de Vídeo Maxime 8702,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1944.6,19.41,12.48,2.79,2618.99
-Placa de Vídeo Nihil 9750,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",1407.77,17.93,14.42,14.12,2061.96
-Placa de Vídeo Nisi 9334,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.",2477.29,13.92,15.72,6.29,3367.38
-Memória RAM Enim 9563,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",495.66,9.75,13.56,10.05,661.01
-Memória RAM Quia 5148,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",267.08,10.94,16.03,4.5,351.13
-Memória RAM Similique 5181,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",750.31,19.04,12.06,9.32,1053.59
-Memória RAM Ut 9225,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",797.27,6.1,13.28,3.98,983.51
-Memória RAM Magni 5719,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",716.6,18.19,14.22,2.37,965.83
-Memória RAM Sunt 8901,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",592.48,14.18,17.92,9.81,840.79
-Memória RAM Pariatur 129,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",567.5,13.32,17.59,1.55,751.71
-Memória RAM Quam 2201,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",285.13,18.35,16.45,2.33,391.0
-Memória RAM Sapiente 4617,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",523.38,15.76,13.22,9.51,724.83
-Memória RAM Odio 4326,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",453.79,8.77,17.45,0.76,576.22
-Memória RAM Alias 6940,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",680.54,5.66,14.0,1.96,827.67
-Memória RAM Amet 4292,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",213.11,11.63,16.23,8.41,290.4
-Memória RAM Deleniti 1833,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",152.67,18.25,17.42,8.18,219.62
-Memória RAM Eos 6050,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",507.76,7.22,12.76,4.62,632.67
-Memória RAM Eos 654,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",729.25,8.15,13.5,1.54,898.36
-Memória RAM Veritatis 9174,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",718.89,11.1,15.72,2.32,928.37
-Memória RAM Deleniti 3879,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",705.22,19.64,16.86,13.22,1055.86
-Memória RAM Dolor 407,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",225.55,18.87,16.69,6.18,319.69
-Memória RAM Dignissimos 4066,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",286.76,16.81,12.65,13.08,408.75
-Memória RAM Fuga 7712,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",255.7,17.25,14.76,4.58,349.26
-Memória RAM Voluptatibus 3729,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",256.05,14.9,14.39,4.18,341.75
-Memória RAM Molestiae 1138,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",776.82,9.19,15.85,6.0,1017.94
-Memória RAM Eum 8786,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",331.8,5.41,17.26,3.92,420.03
-Memória RAM Eos 9513,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",773.77,8.98,12.65,6.52,991.59
-Memória RAM Eum 5140,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.",405.48,19.76,12.69,13.49,591.76
-Placa-mãe Accusamus 3115,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",733.03,15.63,12.01,13.88,1037.38
-Placa-mãe Molestiae 8822,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1467.66,19.1,16.42,2.96,2032.42
-Placa-mãe Perferendis 7067,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",418.96,14.96,13.98,4.71,559.94
-Placa-mãe Temporibus 2042,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1523.58,9.5,13.86,6.13,1972.88
-Placa-mãe Aliquid 6593,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1485.25,13.32,13.15,9.97,2026.48
-Placa-mãe Molestias 6212,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1451.44,18.54,15.69,4.51,2013.73
-Placa-mãe Soluta 8978,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1717.33,9.56,13.26,11.79,2311.7
-Placa-mãe Beatae 9940,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1413.0,11.97,14.65,3.21,1834.5
-Placa-mãe Quam 7753,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1649.35,19.4,16.42,9.88,2403.1
-Placa-mãe Esse 4650,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1176.27,14.49,14.01,12.28,1655.95
-Placa-mãe Tenetur 3849,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1443.75,8.37,13.19,0.37,1760.36
-Placa-mãe Temporibus 4012,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1972.69,14.17,16.61,6.83,2714.62
-Placa-mãe Ipsam 9432,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",630.54,15.45,14.97,3.66,845.43
-Placa-mãe Corporis 91,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1817.52,17.91,17.31,11.68,2669.94
-Placa-mãe Corrupti 3586,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",599.01,19.37,15.11,0.75,810.04
-Placa-mãe Quia 4083,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1859.7,6.82,12.8,6.97,2354.19
-Placa-mãe Deleniti 8703,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1979.42,13.93,17.7,13.37,2870.16
-Placa-mãe Aut 8271,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1025.46,18.6,14.68,2.39,1391.24
-Placa-mãe Modi 7778,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1065.12,16.28,17.04,4.16,1464.33
-Placa-mãe Maiores 8541,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1123.81,8.59,14.64,10.7,1505.12
-Placa-mãe Maxime 3842,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",761.92,9.8,15.24,2.08,968.55
-Placa-mãe Architecto 3789,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",951.16,7.29,13.28,6.22,1205.98
-Placa-mãe Dolorum 5422,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1222.44,11.24,13.24,6.3,1598.71
-Placa-mãe Dignissimos 9570,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",1908.31,5.29,17.28,8.64,2503.89
-Placa-mãe Facere 7815,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.",310.02,10.28,16.52,12.8,432.79
-SSD Assumenda 6866,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",499.84,16.02,16.8,13.47,731.22
-SSD Impedit 8000,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",292.62,11.54,12.17,5.04,376.75
-SSD Esse 6625,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",620.72,17.61,17.52,14.71,930.09
-SSD Nostrum 8752,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",167.53,10.91,15.39,0.41,212.28
-SSD Esse 7023,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",238.2,11.93,12.3,5.69,309.47
-SSD Inventore 3468,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",445.55,10.06,17.28,4.17,585.94
-SSD Laudantium 6907,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",313.98,6.23,12.12,8.09,397.0
-SSD Repudiandae 5734,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",295.74,6.03,17.74,0.6,367.81
-SSD Voluptatem 509,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",767.25,7.99,12.12,2.29,939.11
-SSD Libero 2069,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",457.81,6.72,17.69,6.98,601.52
-SSD Tempora 4199,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",648.48,7.52,15.64,11.22,871.43
-SSD Expedita 1877,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",655.56,7.46,13.87,8.68,852.29
-SSD Deleniti 5112,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",524.27,18.62,14.25,14.12,770.62
-SSD Repellendus 3250,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",199.4,15.36,15.76,1.53,264.5
-SSD Quidem 4942,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",702.69,14.01,12.73,14.76,994.31
-SSD Hic 673,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",375.68,11.43,14.22,7.59,500.56
-SSD Similique 5591,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",158.22,11.3,14.94,6.5,210.02
-SSD Recusandae 5935,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",563.13,17.43,16.24,6.53,789.51
-SSD Aspernatur 8549,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",777.56,9.05,16.85,8.07,1041.7
-SSD Eaque 7922,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",452.17,17.39,15.55,4.83,622.95
-SSD Officiis 4023,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",689.98,6.3,17.29,3.66,878.0
-SSD Accusantium 7614,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",520.4,15.02,14.02,7.41,710.09
-SSD Impedit 5326,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",268.2,8.18,16.79,5.11,348.87
-SSD Minus 9768,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",605.77,9.14,12.06,14.22,820.33
-SSD Sunt 1403,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.",306.88,11.1,15.33,3.6,399.04
-HD Doloribus 7801,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",522.95,12.36,16.76,1.4,682.55
-HD Voluptate 3631,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",402.2,8.65,15.98,5.54,523.54
-HD Et 9069,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",465.46,11.38,16.48,4.96,618.22
-HD Qui 7435,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",335.46,8.77,12.72,2.89,417.25
-HD Repellendus 1959,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",571.44,19.26,16.14,2.87,790.13
-HD Laborum 7934,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",338.25,13.84,16.56,8.95,471.35
-HD Dolor 1648,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",616.31,9.44,14.17,4.53,789.74
-HD Distinctio 8752,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",263.29,5.68,12.33,4.38,322.24
-HD In 2069,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",518.93,16.29,12.62,0.18,669.89
-HD Repellendus 4659,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",434.7,11.61,13.11,0.77,545.51
-HD Quae 7828,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",257.04,5.98,14.95,8.66,333.1
-HD Quidem 879,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",275.86,17.17,17.69,1.28,375.56
-HD Numquam 4067,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",259.23,16.47,15.64,11.86,373.21
-HD Consequatur 3698,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",587.85,10.71,17.45,4.46,779.61
-HD Atque 9643,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",695.02,9.58,15.73,9.14,934.45
-HD Quas 1626,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",673.8,8.12,13.27,9.91,884.7
-HD Quia 2574,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",319.93,13.28,12.94,6.13,423.43
-HD Et 9730,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",434.96,5.49,13.73,4.24,537.0
-HD Natus 7439,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",235.59,8.5,13.59,11.87,315.6
-HD Sunt 9664,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",530.59,19.01,14.55,8.17,752.01
-HD Laborum 2442,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",654.21,17.4,12.43,2.49,865.65
-HD Modi 5040,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",497.52,17.36,17.53,6.59,703.89
-HD Eum 7680,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",544.34,15.5,17.66,7.51,765.72
-HD Quae 8091,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",418.88,13.97,17.34,11.02,596.19
-HD Aperiam 9892,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.",325.18,6.37,17.77,12.54,444.46
-Fonte Iste 9425,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",669.7,5.31,16.59,12.32,898.87
-Fonte Porro 9442,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",232.19,16.34,14.82,9.77,327.23
-Fonte Distinctio 4558,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",345.19,13.78,15.81,7.38,472.81
-Fonte Saepe 1495,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",576.01,11.13,13.93,1.57,729.4
-Fonte Sed 2635,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",463.84,15.41,13.73,14.18,664.78
-Fonte Tenetur 9013,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",229.36,6.32,13.51,1.74,278.83
-Fonte Numquam 6623,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",891.93,17.37,12.01,13.04,1270.29
-Fonte Temporibus 7570,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",530.6,7.81,14.17,11.35,707.45
-Fonte Nisi 7243,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",807.99,8.05,15.3,13.92,1109.13
-Fonte Eveniet 7179,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",904.68,12.27,12.17,9.45,1211.28
-Fonte Voluptates 3921,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",767.83,9.66,12.08,6.12,981.75
-Fonte Error 3682,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",993.81,18.69,14.77,1.76,1343.83
-Fonte Voluptates 2523,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",598.7,15.75,15.05,4.1,807.65
-Fonte Error 7906,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",984.2,8.66,15.31,5.75,1276.7
-Fonte At 9821,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",606.59,18.19,17.18,4.14,846.25
-Fonte Dolore 6799,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",471.9,16.82,13.6,0.04,615.64
-Fonte Voluptas 4892,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",869.98,13.7,15.96,12.98,1240.94
-Fonte Maiores 7317,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",630.86,10.18,15.31,8.15,843.08
-Fonte Repudiandae 7461,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",946.28,18.04,17.88,3.58,1320.06
-Fonte Tempore 6275,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",386.85,16.63,12.26,11.17,541.82
-Fonte Maiores 6247,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",508.86,14.96,16.92,14.71,745.94
-Fonte Quidem 8116,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",971.86,6.89,17.79,4.98,1260.11
-Fonte Possimus 1645,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",899.35,11.6,15.16,6.85,1201.62
-Fonte Adipisci 2362,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",527.98,14.82,12.93,7.04,711.66
-Fonte Harum 4343,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.",470.85,15.39,15.9,12.78,678.35
-Gabinete Dolorem 8743,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",397.01,9.75,16.31,11.39,545.69
-Gabinete Dolor 8865,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",173.33,6.03,15.79,13.81,235.09
-Gabinete Incidunt 3728,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",635.4,11.51,12.59,9.51,848.96
-Gabinete Dolorem 1647,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",438.39,15.41,17.42,0.69,585.34
-Gabinete Id 920,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",340.69,10.62,12.87,7.97,447.87
-Gabinete Odit 9273,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",593.17,7.7,13.05,9.14,770.47
-Gabinete Voluptatem 6268,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",552.81,8.61,17.48,2.15,708.92
-Gabinete Ab 7556,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",564.64,11.89,16.0,13.48,798.23
-Gabinete Blanditiis 7623,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",735.79,15.16,12.95,6.63,991.4
-Gabinete Laudantium 5662,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",791.97,9.49,17.77,10.35,1089.83
-Gabinete Esse 7485,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",699.45,7.99,14.31,7.25,906.14
-Gabinete Soluta 3887,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",397.89,10.38,13.78,10.49,535.76
-Gabinete Blanditiis 360,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",785.66,14.87,13.65,8.49,1076.43
-Gabinete Enim 804,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",741.9,16.18,17.0,13.54,1088.52
-Gabinete Eligendi 3771,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",544.59,10.28,15.82,9.31,737.43
-Gabinete Nihil 2241,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",558.36,18.55,15.88,4.63,776.46
-Gabinete Minus 7223,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",171.69,10.47,12.79,13.64,235.04
-Gabinete Quidem 5353,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",635.86,7.63,12.79,8.09,817.14
-Gabinete Non 5995,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",495.05,18.7,16.98,3.85,690.74
-Gabinete Dolorem 7895,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",778.8,9.43,17.22,12.06,1080.27
-Gabinete Dolores 7674,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",775.88,7.11,17.8,12.9,1069.24
-Gabinete Quod 6512,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",778.73,17.07,14.19,11.86,1114.52
-Gabinete Sit 229,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",321.9,6.85,14.21,11.24,425.87
-Gabinete Reprehenderit 4296,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",529.96,17.34,17.64,1.63,723.98
-Gabinete Sint 3831,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.",456.46,14.29,17.66,4.92,624.76
-Cooler Eaque 9996,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",105.34,5.95,16.94,13.64,143.82
-Cooler Magni 4952,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",212.31,6.75,12.27,0.56,253.88
-Cooler Explicabo 8072,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",79.03,8.52,15.23,5.83,102.41
-Cooler Ex 6079,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",217.62,16.15,17.68,6.29,304.93
-Cooler Eaque 2532,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",271.35,14.82,17.0,9.23,382.74
-Cooler Quasi 4584,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",58.18,10.56,14.66,14.26,81.15
-Cooler Provident 5943,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",74.84,15.29,15.27,14.67,108.69
-Cooler Libero 5877,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",65.14,9.14,17.81,14.24,91.97
-Cooler Molestias 7451,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",72.92,8.18,15.84,14.57,101.06
-Cooler Sed 829,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",246.7,8.65,12.76,8.47,320.41
-Cooler Animi 1125,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",257.45,13.31,15.52,12.2,363.08
-Cooler At 3818,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",132.14,7.21,17.4,0.04,164.71
-Cooler Qui 2371,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",296.88,13.1,16.79,1.65,390.52
-Cooler Rerum 423,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",82.95,10.37,16.73,8.83,112.75
-Cooler Eum 259,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",93.56,5.79,16.45,7.89,121.75
-Cooler Repellat 1042,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",169.06,16.67,15.08,1.64,225.51
-Cooler Odit 8255,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",105.39,14.23,16.36,13.63,151.99
-Cooler Quo 8544,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",125.41,14.65,12.19,14.98,177.86
-Cooler Voluptate 6581,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",156.57,6.62,16.27,6.65,202.82
-Cooler Natus 1324,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",130.53,7.23,12.76,9.36,168.84
-Cooler Illum 9591,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",187.09,9.88,17.97,7.96,254.09
-Cooler Occaecati 7434,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",176.39,11.45,16.76,1.72,229.18
-Cooler Eveniet 9034,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",230.21,8.23,14.71,3.43,290.92
-Cooler Sequi 5554,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",256.85,10.98,16.38,4.69,339.17
-Cooler Ipsa 5121,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.",216.28,10.61,12.92,13.84,297.1
-Water Cooler Possimus 1100,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",409.47,6.28,14.59,11.17,540.66
-Water Cooler Eligendi 6106,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1274.12,13.35,15.52,8.42,1749.24
-Water Cooler Ullam 5401,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1104.02,11.16,17.24,14.12,1573.45
-Water Cooler Vero 6930,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1341.71,15.82,17.81,9.01,1913.82
-Water Cooler Unde 5762,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",424.32,12.61,12.93,7.23,563.37
-Water Cooler Vitae 1774,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",720.14,13.34,12.69,4.18,937.69
-Water Cooler Quo 3706,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1268.67,17.68,17.85,12.28,1875.22
-Water Cooler Fugit 9122,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",331.5,18.94,16.98,4.01,463.87
-Water Cooler Corporis 2956,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",627.92,16.44,17.53,5.27,874.32
-Water Cooler Quibusdam 2973,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1343.84,13.49,14.4,2.13,1747.26
-Water Cooler Voluptatibus 503,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",410.11,12.96,14.26,6.8,549.63
-Water Cooler Eveniet 2579,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",744.06,15.82,16.66,8.51,1049.05
-Water Cooler A 1392,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1360.01,7.33,16.53,0.75,1694.71
-Water Cooler Aspernatur 1337,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",626.52,14.93,14.91,6.63,855.01
-Water Cooler Quas 4476,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",558.68,12.69,14.07,1.66,717.46
-Water Cooler Atque 9718,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",883.96,15.01,12.27,5.93,1177.52
-Water Cooler Maxime 9820,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",365.74,8.07,17.67,11.51,501.98
-Water Cooler Suscipit 4187,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",647.34,6.8,14.98,6.46,830.15
-Water Cooler Nobis 2117,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",756.25,15.56,15.0,12.5,1081.89
-Water Cooler Illum 5803,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",386.49,17.93,12.25,0.28,504.21
-Water Cooler Quasi 1276,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1334.53,13.64,15.44,10.64,1864.61
-Water Cooler Quae 6844,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",647.42,11.08,17.8,2.58,851.1
-Water Cooler Voluptates 7539,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",1298.43,18.8,12.53,12.67,1869.74
-Water Cooler Sit 3987,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",822.81,11.01,12.47,13.06,1123.46
-Water Cooler Quibusdam 5563,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.",565.89,16.69,12.46,9.5,784.61
-Monitor Sint 8694,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1725.88,18.59,14.1,10.91,2478.36
-Monitor Animi 2420,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1014.3,7.2,13.18,9.04,1312.71
-Monitor Debitis 1235,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",860.58,16.59,14.96,11.32,1229.51
-Monitor Harum 9495,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1567.15,18.86,15.39,9.53,2253.25
-Monitor Modi 5296,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2647.04,14.41,12.91,1.02,3397.21
-Monitor Nobis 7246,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2041.6,16.94,15.55,5.28,2812.71
-Monitor Velit 1216,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1207.06,11.78,12.34,12.48,1648.84
-Monitor Mollitia 1258,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2076.13,19.66,12.54,8.91,2929.63
-Monitor Doloribus 6300,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1603.05,13.31,16.75,13.44,2300.38
-Monitor Culpa 7369,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2763.53,13.57,13.13,9.08,3752.32
-Monitor Omnis 8215,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",792.24,5.93,12.62,13.49,1046.07
-Monitor Harum 5627,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2954.2,6.26,15.88,0.59,3625.69
-Monitor Praesentium 7173,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2976.56,12.86,15.66,5.46,3988.0
-Monitor Magni 4635,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1407.28,16.62,16.07,0.79,1878.44
-Monitor Officia 5483,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",571.37,6.42,16.07,4.26,724.21
-Monitor Illum 9875,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2670.53,10.0,15.5,2.12,3408.13
-Monitor Corporis 5732,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1206.6,14.84,15.97,1.93,1601.64
-Monitor Odio 1389,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",1204.91,10.65,16.75,12.2,1682.05
-Monitor Debitis 8625,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",642.98,15.06,15.05,0.27,838.32
-Monitor Totam 5061,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",868.68,8.21,17.69,7.29,1156.99
-Monitor Sit 3712,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2999.94,7.32,13.77,11.82,3987.22
-Monitor Occaecati 8318,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2404.27,17.53,17.3,0.57,3255.38
-Monitor Nihil 5518,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2678.62,14.27,15.58,2.31,3540.06
-Monitor Atque 2963,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",2561.5,16.57,16.85,2.48,3481.08
-Monitor Esse 7171,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.",513.6,10.46,16.32,14.54,725.82
-Teclado Velit 4669,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",614.29,16.76,13.4,3.59,821.61
-Teclado Maxime 7685,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",727.98,7.91,16.07,8.56,964.86
-Teclado Unde 7219,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",396.26,9.23,14.29,7.91,520.8
-Teclado Mollitia 2656,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",662.67,17.02,12.83,3.75,885.33
-Teclado Dignissimos 7874,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",705.59,13.32,12.62,12.69,978.16
-Teclado Voluptate 2043,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",263.8,16.45,13.64,13.58,379.0
-Teclado Eveniet 2415,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",673.29,6.38,17.46,12.25,916.28
-Teclado Sequi 5728,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",747.85,11.22,14.38,5.61,981.25
-Teclado Iusto 6327,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",795.89,10.62,12.17,13.96,1088.38
-Teclado Aliquid 5494,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",643.54,7.06,13.72,12.45,857.39
-Teclado Libero 2274,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",619.13,12.04,15.69,13.59,874.95
-Teclado Vitae 312,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",241.94,17.52,15.29,10.91,347.72
-Teclado Occaecati 8648,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",367.44,16.64,13.43,1.83,484.65
-Teclado Officia 3907,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",364.87,16.91,14.74,1.66,486.41
-Teclado Cumque 8190,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",497.55,5.25,15.09,3.63,616.81
-Teclado Assumenda 2353,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",268.45,5.02,14.12,8.56,342.81
-Teclado Quas 3069,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",548.28,6.28,17.85,1.02,686.17
-Teclado Tenetur 8619,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",458.06,16.8,15.05,0.31,605.37
-Teclado Nobis 7703,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",82.65,10.8,14.24,11.21,112.61
-Teclado Voluptates 5851,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",641.39,10.17,16.4,9.42,872.23
-Teclado Excepturi 9534,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",601.39,9.99,12.27,8.19,784.51
-Teclado Sed 2869,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",672.79,15.27,17.88,7.18,944.13
-Teclado Nihil 2987,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",658.62,5.95,16.66,6.87,852.78
-Teclado Unde 4808,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",201.19,16.87,17.31,4.73,279.47
-Teclado Perspiciatis 5081,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.",436.54,19.84,15.26,3.8,606.35
-Mouse Voluptas 3132,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",207.36,17.93,12.29,9.84,290.43
-Mouse Dolore 4477,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",118.46,10.52,17.34,11.15,164.67
-Mouse Possimus 6335,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",236.47,7.8,16.15,5.51,306.13
-Mouse Quibusdam 8508,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",196.7,6.24,14.55,6.46,250.3
-Mouse Omnis 2957,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",350.01,9.82,12.48,9.91,462.75
-Mouse Quis 5022,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",295.25,15.76,13.0,6.66,399.83
-Mouse Eos 7326,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",73.3,18.05,14.12,14.97,107.85
-Mouse Quasi 4499,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",401.71,16.87,12.34,10.07,559.5
-Mouse Aperiam 6656,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",249.82,17.02,16.08,14.29,368.21
-Mouse A 2340,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",516.77,15.17,14.63,1.89,680.53
-Mouse Amet 3867,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",478.18,10.49,14.3,8.51,637.41
-Mouse Asperiores 9914,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",134.39,11.75,14.23,6.66,178.25
-Mouse Nesciunt 1260,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",365.66,12.94,14.39,9.74,501.21
-Mouse Laborum 4090,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",578.29,5.39,13.12,7.77,730.26
-Mouse Modi 9203,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",114.77,16.62,16.22,3.22,156.16
-Mouse Hic 4679,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",431.69,19.98,13.2,2.04,583.73
-Mouse Necessitatibus 1214,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",298.62,18.48,14.67,1.32,401.55
-Mouse Natus 5237,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",417.31,15.64,15.3,4.36,564.62
-Mouse Consequuntur 4915,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",518.25,15.68,17.56,9.57,740.11
-Mouse Ab 5923,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",329.82,6.82,13.21,2.08,402.74
-Mouse Rem 8095,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",64.46,13.31,14.21,12.05,89.97
-Mouse Quam 9039,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",121.37,18.26,12.39,5.97,165.82
-Mouse Saepe 7843,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",339.13,16.54,16.94,1.11,456.44
-Mouse Suscipit 5195,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",403.29,11.75,16.08,5.17,536.38
-Mouse Beatae 9033,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.",401.89,7.73,17.8,6.49,530.58
-Mousepad Modi 908,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",171.34,12.77,13.82,2.43,221.06
-Mousepad Dolores 3695,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",88.82,19.11,17.37,12.69,132.49
-Mousepad Neque 4106,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",63.37,19.35,13.65,9.38,90.23
-Mousepad Reiciendis 8741,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",45.88,14.61,15.55,8.71,63.71
-Mousepad Voluptates 2805,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",141.98,15.81,15.63,12.64,204.56
-Mousepad Vitae 9235,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",37.0,17.96,12.49,14.23,53.53
-Mousepad Velit 9450,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",74.99,8.16,15.43,9.27,99.63
-Mousepad Saepe 497,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",114.67,14.41,13.74,14.35,163.4
-Mousepad Quas 7913,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",71.63,17.11,14.44,6.8,99.1
-Mousepad Laborum 982,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",56.87,11.23,14.79,5.1,74.57
-Mousepad Explicabo 2354,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",83.14,15.78,16.41,12.91,120.64
-Mousepad Fugiat 6533,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",52.23,10.56,15.37,4.79,68.28
-Mousepad Quo 7643,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",50.83,11.74,12.85,0.76,63.72
-Mousepad Asperiores 6294,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",176.91,11.27,17.78,13.53,252.24
-Mousepad Consequatur 5365,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",188.74,15.82,13.14,2.39,247.91
-Mousepad Necessitatibus 8434,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",109.36,18.19,14.98,1.35,147.11
-Mousepad Eius 6443,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",115.93,19.5,13.29,5.29,160.08
-Mousepad Dolor 829,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",77.83,13.96,17.06,10.09,109.83
-Mousepad Non 4682,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",121.24,17.71,14.59,13.24,176.45
-Mousepad Exercitationem 5993,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",159.86,10.49,14.4,8.55,213.32
-Mousepad Consequuntur 3190,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",91.63,9.33,14.32,6.76,119.49
-Mousepad Corporis 9009,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",77.55,19.84,16.08,1.78,106.79
-Mousepad Ut 1585,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",96.96,16.92,14.03,14.08,140.62
-Mousepad Aliquid 2364,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",63.84,12.64,15.0,0.68,81.92
-Mousepad Non 2246,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.",151.31,17.06,15.12,2.23,203.38
-Headset Fugiat 8447,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",225.8,18.97,13.91,5.89,313.34
-Headset Animi 4903,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",634.35,12.61,15.06,7.35,856.5
-Headset Necessitatibus 9223,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",369.81,17.24,14.21,10.11,523.5
-Headset Nam 6825,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",625.33,16.95,16.35,10.32,898.1
-Headset Porro 437,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",637.22,8.98,15.93,14.58,888.86
-Headset Maiores 9478,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",619.87,15.82,15.5,2.56,829.88
-Headset Ratione 6230,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",233.0,15.21,12.19,14.22,329.97
-Headset Consequuntur 1801,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",271.71,11.62,14.51,6.19,359.53
-Headset Optio 3341,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",469.34,16.62,17.52,13.09,691.01
-Headset In 1021,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",735.2,12.78,15.37,14.97,1052.22
-Headset Eos 7838,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",572.93,9.71,13.04,13.68,781.65
-Headset Sed 5609,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",591.65,15.14,17.21,10.21,843.46
-Headset Facilis 4332,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",649.07,7.88,13.48,8.37,842.04
-Headset Natus 3685,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",947.34,19.73,16.63,10.57,1391.93
-Headset Quos 8012,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",385.34,10.23,17.6,11.93,538.55
-Headset Iure 4481,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",359.01,13.6,15.26,13.44,510.87
-Headset Illum 6465,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",836.54,19.32,16.83,4.36,1175.42
-Headset Praesentium 4713,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",959.78,6.19,17.54,9.84,1281.98
-Headset Incidunt 7850,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",292.59,17.42,13.63,8.43,408.1
-Headset Placeat 4451,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",223.55,14.24,15.52,3.64,298.22
-Headset Occaecati 8701,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",303.1,8.49,12.6,4.95,382.03
-Headset Corporis 7740,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",190.49,16.56,12.03,8.26,260.69
-Headset Iste 2588,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",466.22,19.03,17.27,7.16,668.84
-Headset Dolores 3268,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",780.32,9.31,13.71,0.89,966.89
-Headset Eligendi 1466,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.",687.07,8.48,16.43,12.75,945.82
-Webcam Aperiam 612,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",556.61,7.63,17.29,2.64,710.01
-Webcam Quam 596,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",598.59,10.95,14.97,14.05,837.85
-Webcam Inventore 4743,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",538.37,5.14,15.41,1.61,657.67
-Webcam Tempora 5490,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",242.28,19.84,15.26,7.41,345.27
-Webcam Est 2199,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",525.53,12.02,13.16,1.69,666.74
-Webcam Doloremque 2663,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",465.56,14.72,16.31,0.21,611.0
-Webcam Voluptates 5524,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",495.38,13.52,16.54,2.63,657.32
-Webcam Minima 6644,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",513.49,12.73,12.52,10.04,694.7
-Webcam Libero 3028,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",590.84,12.16,17.61,0.1,767.32
-Webcam Repellendus 6285,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",217.76,16.31,17.72,4.53,301.73
-Webcam Consequuntur 9387,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",105.72,14.81,16.16,0.93,139.44
-Webcam Corrupti 1937,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",332.7,7.4,16.12,13.85,457.03
-Webcam Optio 5096,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",445.15,14.58,17.64,5.51,613.11
-Webcam Cupiditate 3619,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",209.56,7.0,12.92,11.22,274.82
-Webcam Itaque 9925,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",286.81,15.53,17.48,11.36,414.07
-Webcam Aut 3579,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",480.93,15.21,15.57,11.81,685.76
-Webcam Qui 8610,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",323.37,15.56,12.47,8.46,441.37
-Webcam Dolore 1012,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",514.39,18.54,13.21,8.05,719.12
-Webcam Sit 2696,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",264.06,12.81,12.7,3.08,339.55
-Webcam Molestias 9555,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",344.41,18.48,14.67,0.83,461.44
-Webcam Accusantium 2162,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",356.62,11.85,12.35,6.94,467.67
-Webcam Molestias 5050,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",461.64,10.94,16.9,11.19,641.82
-Webcam Iusto 9476,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",136.51,11.36,16.2,8.12,185.22
-Webcam Sed 988,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",567.29,6.04,17.6,0.48,704.12
-Webcam Neque 6699,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.",189.99,7.03,15.85,10.94,254.24
-Caixa de Som Magnam 6888,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",324.68,18.37,14.69,13.76,476.7
-Caixa de Som Voluptate 6185,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",325.39,15.24,15.97,8.09,453.27
-Caixa de Som Voluptate 5698,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",171.18,19.89,14.36,1.91,233.08
-Caixa de Som Non 3649,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",600.89,16.34,17.87,6.95,848.22
-Caixa de Som In 8921,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",354.48,10.69,13.38,6.91,464.3
-Caixa de Som Voluptatibus 2542,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",265.39,19.06,16.35,1.69,363.85
-Caixa de Som Dolorem 6869,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",468.95,19.04,17.33,3.61,656.44
-Caixa de Som Minus 1103,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",160.54,5.5,15.59,10.55,211.33
-Caixa de Som Corporis 798,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",246.84,5.66,14.63,8.1,316.92
-Caixa de Som Maiores 925,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",184.08,19.9,13.4,13.75,270.69
-Caixa de Som Vitae 9439,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",291.34,13.97,16.04,4.81,392.78
-Caixa de Som Veritatis 4945,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",625.75,19.79,15.13,6.2,883.06
-Caixa de Som Fugiat 4509,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",136.57,19.23,17.28,13.67,205.1
-Caixa de Som Cupiditate 7000,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",433.51,5.7,14.07,9.65,561.05
-Caixa de Som Optio 6245,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",571.48,9.78,14.5,2.24,723.04
-Caixa de Som Sapiente 6168,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",210.33,13.07,13.45,3.38,273.22
-Caixa de Som Suscipit 2366,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",583.47,18.72,15.37,14.52,867.09
-Caixa de Som Odit 9131,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",418.0,10.83,13.53,4.95,540.52
-Caixa de Som Expedita 1296,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",653.34,17.71,12.55,10.87,922.06
-Caixa de Som Tempore 3121,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",130.92,10.66,15.63,0.59,166.11
-Caixa de Som Architecto 1193,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",212.9,16.43,16.35,8.38,300.53
-Caixa de Som Temporibus 7855,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",225.33,18.61,13.82,13.63,329.12
-Caixa de Som Sint 3471,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",662.3,19.43,12.7,14.99,974.38
-Caixa de Som Deserunt 7847,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",648.66,15.43,16.22,5.95,892.56
-Caixa de Som Eligendi 3922,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.",431.25,16.63,14.28,8.0,599.05
-Estabilizador Reiciendis 5887,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",288.79,10.39,17.3,6.99,388.94
-Estabilizador Laboriosam 7693,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",492.73,9.8,13.22,4.69,629.27
-Estabilizador Veritatis 750,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",403.14,8.32,12.88,3.91,504.37
-Estabilizador Fugit 9569,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",410.61,11.26,12.91,4.95,530.18
-Estabilizador Dolorem 6224,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",406.41,8.69,15.3,14.15,561.41
-Estabilizador Magnam 5531,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",265.8,17.32,17.8,9.63,384.75
-Estabilizador In 8038,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",357.37,15.99,14.11,2.1,472.44
-Estabilizador Earum 8955,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",369.74,18.75,15.25,9.63,531.06
-Estabilizador Aliquid 963,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",385.77,17.59,12.45,12.27,548.99
-Estabilizador Pariatur 795,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",493.95,11.19,17.06,3.47,650.63
-Estabilizador Culpa 2475,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",154.11,12.59,14.24,9.27,209.74
-Estabilizador Quae 7917,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",446.68,5.24,15.19,6.17,565.5
-Estabilizador Doloribus 275,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",388.24,9.12,17.86,0.26,494.0
-Estabilizador Sit 7055,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",512.78,18.65,12.64,1.44,680.61
-Estabilizador Et 2440,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",258.44,14.3,13.51,5.32,344.06
-Estabilizador Cumque 6503,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",185.56,19.39,14.75,3.65,255.68
-Estabilizador Ipsa 3701,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",284.99,17.42,12.48,14.88,412.61
-Estabilizador Repellat 520,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",192.08,10.69,15.32,0.84,243.65
-Estabilizador In 155,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",466.28,6.24,17.07,9.67,620.06
-Estabilizador Nemo 5428,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",404.64,17.87,12.57,7.92,559.86
-Estabilizador Perspiciatis 698,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",253.39,18.52,16.15,8.5,362.78
-Estabilizador Quis 4442,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",170.95,6.12,17.55,13.49,234.48
-Estabilizador Adipisci 9233,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",446.15,7.69,17.1,0.23,557.78
-Estabilizador Dolore 3395,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",414.17,16.28,16.28,5.97,573.75
-Estabilizador Natus 1261,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.",284.67,13.46,15.4,12.74,403.09
-No-break Omnis 8857,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",930.77,16.33,12.84,14.83,1340.31
-No-break Facilis 1285,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1201.27,19.61,12.32,6.56,1663.64
-No-break Pariatur 1246,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",944.95,16.54,17.73,5.95,1325.01
-No-break Hic 5348,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",447.4,9.1,17.96,7.36,601.4
-No-break Adipisci 5830,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1284.86,10.63,13.11,8.79,1702.82
-No-break Laudantium 6228,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",537.11,14.28,16.79,10.7,761.46
-No-break Iusto 1345,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",828.76,10.7,16.7,2.31,1074.98
-No-break Accusamus 6384,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",906.69,6.6,12.03,4.62,1117.5
-No-break Ea 5897,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1618.15,6.53,12.52,6.46,2030.94
-No-break Eum 9126,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1287.58,11.12,12.16,5.31,1655.7
-No-break Nam 1525,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1355.08,16.77,17.18,0.19,1817.7
-No-break Veritatis 6780,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1020.48,6.27,17.41,13.58,1400.71
-No-break Consequuntur 3978,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1315.14,7.54,14.28,2.08,1629.46
-No-break Officiis 4934,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",829.45,7.19,13.0,4.14,1031.26
-No-break Nam 4912,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1174.77,6.15,13.51,3.7,1449.2
-No-break Iusto 8124,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1350.09,7.93,12.64,4.57,1689.5
-No-break Eaque 6484,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",931.55,14.3,16.82,4.94,1267.47
-No-break Repellat 5485,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1088.99,17.35,15.91,8.92,1548.33
-No-break Quidem 4923,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",913.06,19.21,13.21,4.71,1252.08
-No-break Quibusdam 6525,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1949.96,9.37,16.17,7.37,2591.69
-No-break Sit 9436,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1651.16,9.89,13.68,11.79,2235.01
-No-break Vero 5981,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",582.22,13.46,15.55,8.18,798.75
-No-break Itaque 9013,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",443.07,15.91,17.66,3.14,605.72
-No-break In 4774,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",1730.05,6.04,17.09,11.93,2336.61
-No-break Dolores 8181,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.",622.69,9.54,13.52,2.31,780.67
-Controlador RGB Non 6933,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",247.27,6.11,17.94,7.19,324.52
-Controlador RGB Qui 6567,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",183.59,18.85,17.22,6.27,261.32
-Controlador RGB Aliquid 603,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",247.68,10.39,17.37,8.05,336.37
-Controlador RGB Tenetur 1393,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",77.34,8.72,15.99,2.5,98.38
-Controlador RGB Repellat 726,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",190.81,14.68,15.88,14.5,276.79
-Controlador RGB Necessitatibus 5433,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",291.43,11.46,12.06,3.88,371.28
-Controlador RGB Nemo 8367,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",236.71,13.37,16.13,3.32,314.4
-Controlador RGB Consectetur 6130,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",147.78,16.59,15.53,7.51,206.35
-Controlador RGB Dolorem 5652,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",299.43,12.24,13.77,13.81,418.66
-Controlador RGB Quasi 1407,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",79.02,19.11,12.85,4.68,107.97
-Controlador RGB Adipisci 7461,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",246.07,12.82,14.09,1.46,315.88
-Controlador RGB Tempore 7413,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",129.73,9.5,16.86,1.73,166.17
-Controlador RGB Pariatur 5621,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",211.99,15.16,12.99,14.76,302.95
-Controlador RGB Omnis 3997,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",179.0,13.28,13.99,6.4,239.27
-Controlador RGB Blanditiis 7571,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",107.96,11.08,13.11,9.61,144.45
-Controlador RGB Dolore 7081,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",148.9,16.06,17.3,6.74,208.61
-Controlador RGB Voluptates 7038,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",147.21,15.57,13.23,11.28,206.21
-Controlador RGB Libero 1026,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",194.34,16.99,15.22,5.49,267.61
-Controlador RGB Autem 3229,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",164.39,8.94,17.18,7.92,220.35
-Controlador RGB Fugit 5135,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",199.24,14.17,15.52,5.22,268.79
-Controlador RGB Architecto 7502,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",204.34,17.21,16.24,4.46,281.81
-Controlador RGB Eligendi 9670,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",71.19,7.01,12.71,4.58,88.49
-Controlador RGB Eligendi 3000,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",143.33,7.12,14.33,8.95,186.9
-Controlador RGB Quisquam 9418,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",145.93,7.79,15.81,10.4,195.55
-Controlador RGB Delectus 2839,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.",188.73,12.34,12.84,4.72,245.16
-Suporte Monitor Natus 7390,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",278.21,17.98,17.71,7.27,397.73
-Suporte Monitor Eum 3197,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",340.87,19.46,15.03,7.42,483.73
-Suporte Monitor Quia 8057,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",213.0,17.6,14.93,1.24,284.93
-Suporte Monitor Alias 506,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",334.68,8.31,12.2,3.37,414.6
-Suporte Monitor Iusto 4730,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",133.83,11.86,16.46,11.49,187.11
-Suporte Monitor Et 9007,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",243.46,13.59,13.61,8.15,329.52
-Suporte Monitor Vitae 6011,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",253.45,16.35,16.56,6.62,353.64
-Suporte Monitor Dicta 3581,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",396.73,6.54,16.98,11.27,534.75
-Suporte Monitor Vero 4878,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",359.94,5.48,13.58,12.93,475.08
-Suporte Monitor A 1426,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",220.5,19.91,16.65,3.55,308.94
-Suporte Monitor Doloribus 9633,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",300.52,17.92,15.66,6.42,420.73
-Suporte Monitor Est 2282,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",331.15,17.2,16.83,8.55,472.15
-Suporte Monitor Nihil 8721,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",169.95,13.08,13.94,10.56,233.82
-Suporte Monitor Officia 4741,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",263.28,19.29,15.09,13.5,389.34
-Suporte Monitor Saepe 1561,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",123.39,16.25,14.47,0.89,162.39
-Suporte Monitor Occaecati 4544,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",357.46,6.9,17.2,3.75,457.01
-Suporte Monitor Similique 5278,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",345.11,16.42,16.06,7.34,482.53
-Suporte Monitor Maxime 9461,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",282.37,14.42,14.25,1.13,366.52
-Suporte Monitor Iusto 1526,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",208.91,16.25,16.17,13.16,304.13
-Suporte Monitor Vitae 7450,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",384.08,9.91,12.01,11.61,512.86
-Suporte Monitor Maxime 1527,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",313.9,11.88,15.98,5.37,418.21
-Suporte Monitor Asperiores 1038,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",334.62,10.97,17.81,12.37,472.32
-Suporte Monitor Vitae 8106,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",165.93,17.43,14.03,8.67,232.52
-Suporte Monitor Nulla 9276,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",352.78,16.82,17.36,11.43,513.68
-Suporte Monitor Cupiditate 753,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.",111.86,16.76,14.76,1.86,149.2
-Hub USB Ipsa 2589,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",110.61,5.01,17.75,3.03,139.14
-Hub USB Distinctio 2162,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",181.14,9.53,17.25,13.15,253.47
-Hub USB Porro 1530,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",144.73,8.76,14.23,13.56,197.63
-Hub USB Eveniet 2712,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",48.29,14.38,16.36,11.33,68.61
-Hub USB Reprehenderit 7033,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",144.88,15.56,12.01,7.15,195.18
-Hub USB Dolore 2175,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",134.99,12.79,14.67,0.12,172.22
-Hub USB Debitis 5630,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",170.74,19.82,14.53,1.98,232.77
-Hub USB Eius 1161,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",76.63,6.34,16.84,1.55,95.58
-Hub USB Consequuntur 6023,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",180.96,7.06,16.64,11.3,244.3
-Hub USB Exercitationem 2182,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",142.65,15.16,12.41,8.45,194.03
-Hub USB In 2689,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",110.42,15.84,15.77,2.27,147.83
-Hub USB Minima 6746,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",138.57,11.64,13.3,13.45,191.77
-Hub USB Sed 2294,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",160.39,13.84,14.3,14.45,228.7
-Hub USB At 5153,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",166.57,8.72,15.87,3.72,213.73
-Hub USB Et 9847,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",136.0,14.11,16.67,10.36,191.95
-Hub USB Numquam 4943,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",72.87,14.1,13.13,5.88,97.0
-Hub USB Delectus 895,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",165.41,16.91,13.44,5.79,225.19
-Hub USB Dolor 3950,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",119.93,13.91,15.17,14.67,172.4
-Hub USB Ipsam 5917,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",189.43,6.98,17.16,8.53,251.32
-Hub USB Ex 5987,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",127.42,7.59,14.83,14.81,174.86
-Hub USB Aut 1196,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",42.67,6.01,13.57,0.6,51.28
-Hub USB Earum 991,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",191.79,10.97,13.72,10.69,259.65
-Hub USB Nisi 6807,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",107.77,11.03,15.84,8.06,145.41
-Hub USB Eos 2502,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",84.39,9.65,15.07,3.05,107.83
-Hub USB Dicta 2546,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.",125.82,10.86,15.81,12.52,175.13
+Processador Eos 1825,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 587,54","9,13","13,34","11,05","R$ 784,48"
+Processador Unde 8936,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 804,29","11,33","12,18","3,28","R$ 1.019,76"
+Processador Ducimus 8280,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.607,07","13,42","16,3","10,52","R$ 3.656,15"
+Processador Reprehenderit 6874,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.271,54","13,84","16,86","0,1","R$ 1.663,17"
+Processador Corrupti 2616,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.943,49","10,1","12,93","14,36","R$ 4.044,06"
+Processador Aliquam 5515,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 857,74","10,7","14,15","5,16","R$ 1.115,15"
+Processador Quas 4334,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.324,95","15,95","15,22","14,6","R$ 4.846,78"
+Processador Culpa 6202,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 775,80","9,4","15,77","13,28","R$ 1.074,10"
+Processador Atque 5926,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.520,73","15,57","12,27","3,42","R$ 3.308,71"
+Processador Consequuntur 4742,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.948,28","17,83","17,2","5,7","R$ 5.556,41"
+Processador Praesentium 7429,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.724,90","10,47","14,22","3,14","R$ 3.483,24"
+Processador Consequatur 4375,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.956,37","15,25","12,43","9,52","R$ 4.056,14"
+Processador Deleniti 8752,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.051,94","7,45","14,28","14,84","R$ 4.168,03"
+Processador Optio 9126,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.268,65","9,86","16,61","0,84","R$ 1.615,12"
+Processador Reprehenderit 526,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.317,66","11,02","12,4","13,7","R$ 4.549,18"
+Processador Natus 9293,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.567,29","9,72","15,93","5,93","R$ 4.693,84"
+Processador Deleniti 7518,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.000,05","7,09","16,47","8,08","R$ 1.316,47"
+Processador Veritatis 9578,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.999,52","13,75","14,17","14,96","R$ 2.856,91"
+Processador Eveniet 2267,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.283,34","6,36","12,28","1,64","R$ 2.746,40"
+Processador Incidunt 2622,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.272,28","11,33","12,38","5,72","R$ 4.235,31"
+Processador Ullam 7669,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.351,90","19,57","17,16","0,17","R$ 3.219,75"
+Processador Dolore 1877,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.885,99","13,05","13,6","9,61","R$ 3.932,45"
+Processador Voluptatem 1828,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.527,25","7,37","12,02","10,83","R$ 1.988,78"
+Processador Illum 4316,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.901,61","16,43","15,05","1,6","R$ 5.192,26"
+Processador Expedita 4890,Processador,"Processador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.445,84","12,61","13,19","5,61","R$ 4.528,18"
+Placa de Vídeo Voluptatibus 2647,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 4.236,27","16,68","15,18","0,01","R$ 5.586,37"
+Placa de Vídeo Recusandae 5311,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.931,63","6,68","14,18","14,78","R$ 5.332,86"
+Placa de Vídeo Architecto 5039,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.436,71","8,61","15,4","1,18","R$ 3.050,52"
+Placa de Vídeo Tenetur 7963,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 5.896,14","19,67","15,2","1,89","R$ 8.063,56"
+Placa de Vídeo Suscipit 7788,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 6.681,09","7,48","15,17","9,1","R$ 8.802,34"
+Placa de Vídeo Quas 3471,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 6.573,48","16,33","16,14","10,69","R$ 9.410,59"
+Placa de Vídeo Dolore 6538,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 6.970,90","14,75","14,63","7,76","R$ 9.559,89"
+Placa de Vídeo Repellat 1983,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.487,43","5,96","12,13","8,31","R$ 3.144,11"
+Placa de Vídeo Accusantium 9642,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.321,30","6,06","15,79","3,43","R$ 2.908,12"
+Placa de Vídeo Quisquam 515,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 6.157,81","6,06","13,43","10,03","R$ 7.975,60"
+Placa de Vídeo Possimus 3511,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 4.235,40","15,85","17,29","8,64","R$ 6.004,95"
+Placa de Vídeo Facilis 3982,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 5.707,72","17,11","13,14","1,45","R$ 7.517,07"
+Placa de Vídeo Soluta 7063,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 3.125,79","11,17","17,18","0,81","R$ 4.037,27"
+Placa de Vídeo Possimus 1613,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.363,68","15,92","16,8","1,64","R$ 1.832,24"
+Placa de Vídeo Suscipit 3140,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.141,25","11,73","14,53","4,18","R$ 2.793,05"
+Placa de Vídeo Voluptas 4093,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 6.246,92","6,13","16,85","12,84","R$ 8.484,57"
+Placa de Vídeo Itaque 1605,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.303,53","19,99","17,02","14,53","R$ 1.975,37"
+Placa de Vídeo Facilis 3873,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.997,87","12,28","13,28","6,02","R$ 2.628,80"
+Placa de Vídeo Ipsum 961,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.987,82","5,03","14,34","13,9","R$ 2.649,17"
+Placa de Vídeo Distinctio 7455,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.711,50","15,45","16,38","11,75","R$ 3.893,17"
+Placa de Vídeo Ab 7974,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.928,78","9,45","17,81","8,69","R$ 2.622,18"
+Placa de Vídeo Aliquam 8884,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.365,75","9,7","12,3","7,15","R$ 1.763,87"
+Placa de Vídeo Maxime 8702,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.944,60","19,41","12,48","2,79","R$ 2.618,99"
+Placa de Vídeo Nihil 9750,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.407,77","17,93","14,42","14,12","R$ 2.061,96"
+Placa de Vídeo Nisi 9334,Placa de Vídeo,"Placa de Vídeo com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.477,29","13,92","15,72","6,29","R$ 3.367,38"
+Memória RAM Enim 9563,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 495,66","9,75","13,56","10,05","R$ 661,01"
+Memória RAM Quia 5148,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 267,08","10,94","16,03","4,5","R$ 351,13"
+Memória RAM Similique 5181,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 750,31","19,04","12,06","9,32","R$ 1.053,59"
+Memória RAM Ut 9225,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 797,27","6,1","13,28","3,98","R$ 983,51"
+Memória RAM Magni 5719,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 716,60","18,19","14,22","2,37","R$ 965,83"
+Memória RAM Sunt 8901,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 592,48","14,18","17,92","9,81","R$ 840,79"
+Memória RAM Pariatur 129,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 567,50","13,32","17,59","1,55","R$ 751,71"
+Memória RAM Quam 2201,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 285,13","18,35","16,45","2,33","R$ 391,00"
+Memória RAM Sapiente 4617,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 523,38","15,76","13,22","9,51","R$ 724,83"
+Memória RAM Odio 4326,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 453,79","8,77","17,45","0,76","R$ 576,22"
+Memória RAM Alias 6940,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 680,54","5,66",14,"1,96","R$ 827,67"
+Memória RAM Amet 4292,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 213,11","11,63","16,23","8,41","R$ 290,40"
+Memória RAM Deleniti 1833,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 152,67","18,25","17,42","8,18","R$ 219,62"
+Memória RAM Eos 6050,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 507,76","7,22","12,76","4,62","R$ 632,67"
+Memória RAM Eos 654,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 729,25","8,15","13,5","1,54","R$ 898,36"
+Memória RAM Veritatis 9174,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 718,89","11,1","15,72","2,32","R$ 928,37"
+Memória RAM Deleniti 3879,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 705,22","19,64","16,86","13,22","R$ 1.055,86"
+Memória RAM Dolor 407,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 225,55","18,87","16,69","6,18","R$ 319,69"
+Memória RAM Dignissimos 4066,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 286,76","16,81","12,65","13,08","R$ 408,75"
+Memória RAM Fuga 7712,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 255,70","17,25","14,76","4,58","R$ 349,26"
+Memória RAM Voluptatibus 3729,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 256,05","14,9","14,39","4,18","R$ 341,75"
+Memória RAM Molestiae 1138,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 776,82","9,19","15,85",6,"R$ 1.017,94"
+Memória RAM Eum 8786,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 331,80","5,41","17,26","3,92","R$ 420,03"
+Memória RAM Eos 9513,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 773,77","8,98","12,65","6,52","R$ 991,59"
+Memória RAM Eum 5140,Memória RAM,"Memória RAM com desempenho confiável, ideal para setups gamers e profissionais.","R$ 405,48","19,76","12,69","13,49","R$ 591,76"
+Placa-mãe Accusamus 3115,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 733,03","15,63","12,01","13,88","R$ 1.037,38"
+Placa-mãe Molestiae 8822,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.467,66","19,1","16,42","2,96","R$ 2.032,42"
+Placa-mãe Perferendis 7067,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 418,96","14,96","13,98","4,71","R$ 559,94"
+Placa-mãe Temporibus 2042,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.523,58","9,5","13,86","6,13","R$ 1.972,88"
+Placa-mãe Aliquid 6593,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.485,25","13,32","13,15","9,97","R$ 2.026,48"
+Placa-mãe Molestias 6212,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.451,44","18,54","15,69","4,51","R$ 2.013,73"
+Placa-mãe Soluta 8978,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.717,33","9,56","13,26","11,79","R$ 2.311,70"
+Placa-mãe Beatae 9940,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.413,00","11,97","14,65","3,21","R$ 1.834,50"
+Placa-mãe Quam 7753,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.649,35","19,4","16,42","9,88","R$ 2.403,10"
+Placa-mãe Esse 4650,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.176,27","14,49","14,01","12,28","R$ 1.655,95"
+Placa-mãe Tenetur 3849,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.443,75","8,37","13,19","0,37","R$ 1.760,36"
+Placa-mãe Temporibus 4012,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.972,69","14,17","16,61","6,83","R$ 2.714,62"
+Placa-mãe Ipsam 9432,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 630,54","15,45","14,97","3,66","R$ 845,43"
+Placa-mãe Corporis 91,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.817,52","17,91","17,31","11,68","R$ 2.669,94"
+Placa-mãe Corrupti 3586,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 599,01","19,37","15,11","0,75","R$ 810,04"
+Placa-mãe Quia 4083,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.859,70","6,82","12,8","6,97","R$ 2.354,19"
+Placa-mãe Deleniti 8703,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.979,42","13,93","17,7","13,37","R$ 2.870,16"
+Placa-mãe Aut 8271,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.025,46","18,6","14,68","2,39","R$ 1.391,24"
+Placa-mãe Modi 7778,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.065,12","16,28","17,04","4,16","R$ 1.464,33"
+Placa-mãe Maiores 8541,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.123,81","8,59","14,64","10,7","R$ 1.505,12"
+Placa-mãe Maxime 3842,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 761,92","9,8","15,24","2,08","R$ 968,55"
+Placa-mãe Architecto 3789,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 951,16","7,29","13,28","6,22","R$ 1.205,98"
+Placa-mãe Dolorum 5422,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.222,44","11,24","13,24","6,3","R$ 1.598,71"
+Placa-mãe Dignissimos 9570,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.908,31","5,29","17,28","8,64","R$ 2.503,89"
+Placa-mãe Facere 7815,Placa-mãe,"Placa-mãe com desempenho confiável, ideal para setups gamers e profissionais.","R$ 310,02","10,28","16,52","12,8","R$ 432,79"
+SSD Assumenda 6866,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 499,84","16,02","16,8","13,47","R$ 731,22"
+SSD Impedit 8000,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 292,62","11,54","12,17","5,04","R$ 376,75"
+SSD Esse 6625,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 620,72","17,61","17,52","14,71","R$ 930,09"
+SSD Nostrum 8752,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 167,53","10,91","15,39","0,41","R$ 212,28"
+SSD Esse 7023,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 238,20","11,93","12,3","5,69","R$ 309,47"
+SSD Inventore 3468,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 445,55","10,06","17,28","4,17","R$ 585,94"
+SSD Laudantium 6907,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 313,98","6,23","12,12","8,09","R$ 397,00"
+SSD Repudiandae 5734,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 295,74","6,03","17,74","0,6","R$ 367,81"
+SSD Voluptatem 509,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 767,25","7,99","12,12","2,29","R$ 939,11"
+SSD Libero 2069,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 457,81","6,72","17,69","6,98","R$ 601,52"
+SSD Tempora 4199,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 648,48","7,52","15,64","11,22","R$ 871,43"
+SSD Expedita 1877,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 655,56","7,46","13,87","8,68","R$ 852,29"
+SSD Deleniti 5112,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 524,27","18,62","14,25","14,12","R$ 770,62"
+SSD Repellendus 3250,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 199,40","15,36","15,76","1,53","R$ 264,50"
+SSD Quidem 4942,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 702,69","14,01","12,73","14,76","R$ 994,31"
+SSD Hic 673,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 375,68","11,43","14,22","7,59","R$ 500,56"
+SSD Similique 5591,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 158,22","11,3","14,94","6,5","R$ 210,02"
+SSD Recusandae 5935,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 563,13","17,43","16,24","6,53","R$ 789,51"
+SSD Aspernatur 8549,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 777,56","9,05","16,85","8,07","R$ 1.041,70"
+SSD Eaque 7922,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 452,17","17,39","15,55","4,83","R$ 622,95"
+SSD Officiis 4023,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 689,98","6,3","17,29","3,66","R$ 878,00"
+SSD Accusantium 7614,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 520,40","15,02","14,02","7,41","R$ 710,09"
+SSD Impedit 5326,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 268,20","8,18","16,79","5,11","R$ 348,87"
+SSD Minus 9768,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 605,77","9,14","12,06","14,22","R$ 820,33"
+SSD Sunt 1403,SSD,"SSD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 306,88","11,1","15,33","3,6","R$ 399,04"
+HD Doloribus 7801,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 522,95","12,36","16,76","1,4","R$ 682,55"
+HD Voluptate 3631,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 402,20","8,65","15,98","5,54","R$ 523,54"
+HD Et 9069,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 465,46","11,38","16,48","4,96","R$ 618,22"
+HD Qui 7435,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 335,46","8,77","12,72","2,89","R$ 417,25"
+HD Repellendus 1959,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 571,44","19,26","16,14","2,87","R$ 790,13"
+HD Laborum 7934,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 338,25","13,84","16,56","8,95","R$ 471,35"
+HD Dolor 1648,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 616,31","9,44","14,17","4,53","R$ 789,74"
+HD Distinctio 8752,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 263,29","5,68","12,33","4,38","R$ 322,24"
+HD In 2069,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 518,93","16,29","12,62","0,18","R$ 669,89"
+HD Repellendus 4659,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 434,70","11,61","13,11","0,77","R$ 545,51"
+HD Quae 7828,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 257,04","5,98","14,95","8,66","R$ 333,10"
+HD Quidem 879,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 275,86","17,17","17,69","1,28","R$ 375,56"
+HD Numquam 4067,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 259,23","16,47","15,64","11,86","R$ 373,21"
+HD Consequatur 3698,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 587,85","10,71","17,45","4,46","R$ 779,61"
+HD Atque 9643,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 695,02","9,58","15,73","9,14","R$ 934,45"
+HD Quas 1626,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 673,80","8,12","13,27","9,91","R$ 884,70"
+HD Quia 2574,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 319,93","13,28","12,94","6,13","R$ 423,43"
+HD Et 9730,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 434,96","5,49","13,73","4,24","R$ 537,00"
+HD Natus 7439,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 235,59","8,5","13,59","11,87","R$ 315,60"
+HD Sunt 9664,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 530,59","19,01","14,55","8,17","R$ 752,01"
+HD Laborum 2442,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 654,21","17,4","12,43","2,49","R$ 865,65"
+HD Modi 5040,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 497,52","17,36","17,53","6,59","R$ 703,89"
+HD Eum 7680,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 544,34","15,5","17,66","7,51","R$ 765,72"
+HD Quae 8091,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 418,88","13,97","17,34","11,02","R$ 596,19"
+HD Aperiam 9892,HD,"HD com desempenho confiável, ideal para setups gamers e profissionais.","R$ 325,18","6,37","17,77","12,54","R$ 444,46"
+Fonte Iste 9425,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 669,70","5,31","16,59","12,32","R$ 898,87"
+Fonte Porro 9442,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 232,19","16,34","14,82","9,77","R$ 327,23"
+Fonte Distinctio 4558,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 345,19","13,78","15,81","7,38","R$ 472,81"
+Fonte Saepe 1495,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 576,01","11,13","13,93","1,57","R$ 729,40"
+Fonte Sed 2635,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 463,84","15,41","13,73","14,18","R$ 664,78"
+Fonte Tenetur 9013,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 229,36","6,32","13,51","1,74","R$ 278,83"
+Fonte Numquam 6623,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 891,93","17,37","12,01","13,04","R$ 1.270,29"
+Fonte Temporibus 7570,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 530,60","7,81","14,17","11,35","R$ 707,45"
+Fonte Nisi 7243,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 807,99","8,05","15,3","13,92","R$ 1.109,13"
+Fonte Eveniet 7179,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 904,68","12,27","12,17","9,45","R$ 1.211,28"
+Fonte Voluptates 3921,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 767,83","9,66","12,08","6,12","R$ 981,75"
+Fonte Error 3682,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 993,81","18,69","14,77","1,76","R$ 1.343,83"
+Fonte Voluptates 2523,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 598,70","15,75","15,05","4,1","R$ 807,65"
+Fonte Error 7906,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 984,20","8,66","15,31","5,75","R$ 1.276,70"
+Fonte At 9821,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 606,59","18,19","17,18","4,14","R$ 846,25"
+Fonte Dolore 6799,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 471,90","16,82","13,6","0,04","R$ 615,64"
+Fonte Voluptas 4892,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 869,98","13,7","15,96","12,98","R$ 1.240,94"
+Fonte Maiores 7317,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 630,86","10,18","15,31","8,15","R$ 843,08"
+Fonte Repudiandae 7461,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 946,28","18,04","17,88","3,58","R$ 1.320,06"
+Fonte Tempore 6275,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 386,85","16,63","12,26","11,17","R$ 541,82"
+Fonte Maiores 6247,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 508,86","14,96","16,92","14,71","R$ 745,94"
+Fonte Quidem 8116,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 971,86","6,89","17,79","4,98","R$ 1.260,11"
+Fonte Possimus 1645,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 899,35","11,6","15,16","6,85","R$ 1.201,62"
+Fonte Adipisci 2362,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 527,98","14,82","12,93","7,04","R$ 711,66"
+Fonte Harum 4343,Fonte,"Fonte com desempenho confiável, ideal para setups gamers e profissionais.","R$ 470,85","15,39","15,9","12,78","R$ 678,35"
+Gabinete Dolorem 8743,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 397,01","9,75","16,31","11,39","R$ 545,69"
+Gabinete Dolor 8865,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 173,33","6,03","15,79","13,81","R$ 235,09"
+Gabinete Incidunt 3728,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 635,40","11,51","12,59","9,51","R$ 848,96"
+Gabinete Dolorem 1647,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 438,39","15,41","17,42","0,69","R$ 585,34"
+Gabinete Id 920,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 340,69","10,62","12,87","7,97","R$ 447,87"
+Gabinete Odit 9273,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 593,17","7,7","13,05","9,14","R$ 770,47"
+Gabinete Voluptatem 6268,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 552,81","8,61","17,48","2,15","R$ 708,92"
+Gabinete Ab 7556,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 564,64","11,89",16,"13,48","R$ 798,23"
+Gabinete Blanditiis 7623,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 735,79","15,16","12,95","6,63","R$ 991,40"
+Gabinete Laudantium 5662,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 791,97","9,49","17,77","10,35","R$ 1.089,83"
+Gabinete Esse 7485,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 699,45","7,99","14,31","7,25","R$ 906,14"
+Gabinete Soluta 3887,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 397,89","10,38","13,78","10,49","R$ 535,76"
+Gabinete Blanditiis 360,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 785,66","14,87","13,65","8,49","R$ 1.076,43"
+Gabinete Enim 804,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 741,90","16,18",17,"13,54","R$ 1.088,52"
+Gabinete Eligendi 3771,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 544,59","10,28","15,82","9,31","R$ 737,43"
+Gabinete Nihil 2241,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 558,36","18,55","15,88","4,63","R$ 776,46"
+Gabinete Minus 7223,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 171,69","10,47","12,79","13,64","R$ 235,04"
+Gabinete Quidem 5353,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 635,86","7,63","12,79","8,09","R$ 817,14"
+Gabinete Non 5995,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 495,05","18,7","16,98","3,85","R$ 690,74"
+Gabinete Dolorem 7895,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 778,80","9,43","17,22","12,06","R$ 1.080,27"
+Gabinete Dolores 7674,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 775,88","7,11","17,8","12,9","R$ 1.069,24"
+Gabinete Quod 6512,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 778,73","17,07","14,19","11,86","R$ 1.114,52"
+Gabinete Sit 229,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 321,90","6,85","14,21","11,24","R$ 425,87"
+Gabinete Reprehenderit 4296,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 529,96","17,34","17,64","1,63","R$ 723,98"
+Gabinete Sint 3831,Gabinete,"Gabinete com desempenho confiável, ideal para setups gamers e profissionais.","R$ 456,46","14,29","17,66","4,92","R$ 624,76"
+Cooler Eaque 9996,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 105,34","5,95","16,94","13,64","R$ 143,82"
+Cooler Magni 4952,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 212,31","6,75","12,27","0,56","R$ 253,88"
+Cooler Explicabo 8072,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 79,03","8,52","15,23","5,83","R$ 102,41"
+Cooler Ex 6079,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 217,62","16,15","17,68","6,29","R$ 304,93"
+Cooler Eaque 2532,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 271,35","14,82",17,"9,23","R$ 382,74"
+Cooler Quasi 4584,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 58,18","10,56","14,66","14,26","R$ 81,15"
+Cooler Provident 5943,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 74,84","15,29","15,27","14,67","R$ 108,69"
+Cooler Libero 5877,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 65,14","9,14","17,81","14,24","R$ 91,97"
+Cooler Molestias 7451,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 72,92","8,18","15,84","14,57","R$ 101,06"
+Cooler Sed 829,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 246,70","8,65","12,76","8,47","R$ 320,41"
+Cooler Animi 1125,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 257,45","13,31","15,52","12,2","R$ 363,08"
+Cooler At 3818,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 132,14","7,21","17,4","0,04","R$ 164,71"
+Cooler Qui 2371,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 296,88","13,1","16,79","1,65","R$ 390,52"
+Cooler Rerum 423,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 82,95","10,37","16,73","8,83","R$ 112,75"
+Cooler Eum 259,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 93,56","5,79","16,45","7,89","R$ 121,75"
+Cooler Repellat 1042,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 169,06","16,67","15,08","1,64","R$ 225,51"
+Cooler Odit 8255,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 105,39","14,23","16,36","13,63","R$ 151,99"
+Cooler Quo 8544,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 125,41","14,65","12,19","14,98","R$ 177,86"
+Cooler Voluptate 6581,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 156,57","6,62","16,27","6,65","R$ 202,82"
+Cooler Natus 1324,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 130,53","7,23","12,76","9,36","R$ 168,84"
+Cooler Illum 9591,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 187,09","9,88","17,97","7,96","R$ 254,09"
+Cooler Occaecati 7434,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 176,39","11,45","16,76","1,72","R$ 229,18"
+Cooler Eveniet 9034,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 230,21","8,23","14,71","3,43","R$ 290,92"
+Cooler Sequi 5554,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 256,85","10,98","16,38","4,69","R$ 339,17"
+Cooler Ipsa 5121,Cooler,"Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 216,28","10,61","12,92","13,84","R$ 297,10"
+Water Cooler Possimus 1100,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 409,47","6,28","14,59","11,17","R$ 540,66"
+Water Cooler Eligendi 6106,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.274,12","13,35","15,52","8,42","R$ 1.749,24"
+Water Cooler Ullam 5401,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.104,02","11,16","17,24","14,12","R$ 1.573,45"
+Water Cooler Vero 6930,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.341,71","15,82","17,81","9,01","R$ 1.913,82"
+Water Cooler Unde 5762,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 424,32","12,61","12,93","7,23","R$ 563,37"
+Water Cooler Vitae 1774,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 720,14","13,34","12,69","4,18","R$ 937,69"
+Water Cooler Quo 3706,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.268,67","17,68","17,85","12,28","R$ 1.875,22"
+Water Cooler Fugit 9122,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 331,50","18,94","16,98","4,01","R$ 463,87"
+Water Cooler Corporis 2956,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 627,92","16,44","17,53","5,27","R$ 874,32"
+Water Cooler Quibusdam 2973,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.343,84","13,49","14,4","2,13","R$ 1.747,26"
+Water Cooler Voluptatibus 503,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 410,11","12,96","14,26","6,8","R$ 549,63"
+Water Cooler Eveniet 2579,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 744,06","15,82","16,66","8,51","R$ 1.049,05"
+Water Cooler A 1392,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.360,01","7,33","16,53","0,75","R$ 1.694,71"
+Water Cooler Aspernatur 1337,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 626,52","14,93","14,91","6,63","R$ 855,01"
+Water Cooler Quas 4476,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 558,68","12,69","14,07","1,66","R$ 717,46"
+Water Cooler Atque 9718,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 883,96","15,01","12,27","5,93","R$ 1.177,52"
+Water Cooler Maxime 9820,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 365,74","8,07","17,67","11,51","R$ 501,98"
+Water Cooler Suscipit 4187,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 647,34","6,8","14,98","6,46","R$ 830,15"
+Water Cooler Nobis 2117,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 756,25","15,56",15,"12,5","R$ 1.081,89"
+Water Cooler Illum 5803,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 386,49","17,93","12,25","0,28","R$ 504,21"
+Water Cooler Quasi 1276,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.334,53","13,64","15,44","10,64","R$ 1.864,61"
+Water Cooler Quae 6844,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 647,42","11,08","17,8","2,58","R$ 851,10"
+Water Cooler Voluptates 7539,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.298,43","18,8","12,53","12,67","R$ 1.869,74"
+Water Cooler Sit 3987,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 822,81","11,01","12,47","13,06","R$ 1.123,46"
+Water Cooler Quibusdam 5563,Water Cooler,"Water Cooler com desempenho confiável, ideal para setups gamers e profissionais.","R$ 565,89","16,69","12,46","9,5","R$ 784,61"
+Monitor Sint 8694,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.725,88","18,59","14,1","10,91","R$ 2.478,36"
+Monitor Animi 2420,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.014,30","7,2","13,18","9,04","R$ 1.312,71"
+Monitor Debitis 1235,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 860,58","16,59","14,96","11,32","R$ 1.229,51"
+Monitor Harum 9495,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.567,15","18,86","15,39","9,53","R$ 2.253,25"
+Monitor Modi 5296,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.647,04","14,41","12,91","1,02","R$ 3.397,21"
+Monitor Nobis 7246,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.041,60","16,94","15,55","5,28","R$ 2.812,71"
+Monitor Velit 1216,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.207,06","11,78","12,34","12,48","R$ 1.648,84"
+Monitor Mollitia 1258,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.076,13","19,66","12,54","8,91","R$ 2.929,63"
+Monitor Doloribus 6300,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.603,05","13,31","16,75","13,44","R$ 2.300,38"
+Monitor Culpa 7369,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.763,53","13,57","13,13","9,08","R$ 3.752,32"
+Monitor Omnis 8215,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 792,24","5,93","12,62","13,49","R$ 1.046,07"
+Monitor Harum 5627,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.954,20","6,26","15,88","0,59","R$ 3.625,69"
+Monitor Praesentium 7173,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.976,56","12,86","15,66","5,46","R$ 3.988,00"
+Monitor Magni 4635,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.407,28","16,62","16,07","0,79","R$ 1.878,44"
+Monitor Officia 5483,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 571,37","6,42","16,07","4,26","R$ 724,21"
+Monitor Illum 9875,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.670,53",10,"15,5","2,12","R$ 3.408,13"
+Monitor Corporis 5732,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.206,60","14,84","15,97","1,93","R$ 1.601,64"
+Monitor Odio 1389,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.204,91","10,65","16,75","12,2","R$ 1.682,05"
+Monitor Debitis 8625,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 642,98","15,06","15,05","0,27","R$ 838,32"
+Monitor Totam 5061,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 868,68","8,21","17,69","7,29","R$ 1.156,99"
+Monitor Sit 3712,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.999,94","7,32","13,77","11,82","R$ 3.987,22"
+Monitor Occaecati 8318,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.404,27","17,53","17,3","0,57","R$ 3.255,38"
+Monitor Nihil 5518,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.678,62","14,27","15,58","2,31","R$ 3.540,06"
+Monitor Atque 2963,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 2.561,50","16,57","16,85","2,48","R$ 3.481,08"
+Monitor Esse 7171,Monitor,"Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 513,60","10,46","16,32","14,54","R$ 725,82"
+Teclado Velit 4669,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 614,29","16,76","13,4","3,59","R$ 821,61"
+Teclado Maxime 7685,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 727,98","7,91","16,07","8,56","R$ 964,86"
+Teclado Unde 7219,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 396,26","9,23","14,29","7,91","R$ 520,80"
+Teclado Mollitia 2656,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 662,67","17,02","12,83","3,75","R$ 885,33"
+Teclado Dignissimos 7874,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 705,59","13,32","12,62","12,69","R$ 978,16"
+Teclado Voluptate 2043,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 263,80","16,45","13,64","13,58","R$ 379,00"
+Teclado Eveniet 2415,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 673,29","6,38","17,46","12,25","R$ 916,28"
+Teclado Sequi 5728,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 747,85","11,22","14,38","5,61","R$ 981,25"
+Teclado Iusto 6327,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 795,89","10,62","12,17","13,96","R$ 1.088,38"
+Teclado Aliquid 5494,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 643,54","7,06","13,72","12,45","R$ 857,39"
+Teclado Libero 2274,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 619,13","12,04","15,69","13,59","R$ 874,95"
+Teclado Vitae 312,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 241,94","17,52","15,29","10,91","R$ 347,72"
+Teclado Occaecati 8648,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 367,44","16,64","13,43","1,83","R$ 484,65"
+Teclado Officia 3907,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 364,87","16,91","14,74","1,66","R$ 486,41"
+Teclado Cumque 8190,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 497,55","5,25","15,09","3,63","R$ 616,81"
+Teclado Assumenda 2353,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 268,45","5,02","14,12","8,56","R$ 342,81"
+Teclado Quas 3069,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 548,28","6,28","17,85","1,02","R$ 686,17"
+Teclado Tenetur 8619,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 458,06","16,8","15,05","0,31","R$ 605,37"
+Teclado Nobis 7703,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 82,65","10,8","14,24","11,21","R$ 112,61"
+Teclado Voluptates 5851,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 641,39","10,17","16,4","9,42","R$ 872,23"
+Teclado Excepturi 9534,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 601,39","9,99","12,27","8,19","R$ 784,51"
+Teclado Sed 2869,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 672,79","15,27","17,88","7,18","R$ 944,13"
+Teclado Nihil 2987,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 658,62","5,95","16,66","6,87","R$ 852,78"
+Teclado Unde 4808,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 201,19","16,87","17,31","4,73","R$ 279,47"
+Teclado Perspiciatis 5081,Teclado,"Teclado com desempenho confiável, ideal para setups gamers e profissionais.","R$ 436,54","19,84","15,26","3,8","R$ 606,35"
+Mouse Voluptas 3132,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 207,36","17,93","12,29","9,84","R$ 290,43"
+Mouse Dolore 4477,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 118,46","10,52","17,34","11,15","R$ 164,67"
+Mouse Possimus 6335,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 236,47","7,8","16,15","5,51","R$ 306,13"
+Mouse Quibusdam 8508,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 196,70","6,24","14,55","6,46","R$ 250,30"
+Mouse Omnis 2957,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 350,01","9,82","12,48","9,91","R$ 462,75"
+Mouse Quis 5022,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 295,25","15,76",13,"6,66","R$ 399,83"
+Mouse Eos 7326,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 73,30","18,05","14,12","14,97","R$ 107,85"
+Mouse Quasi 4499,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 401,71","16,87","12,34","10,07","R$ 559,50"
+Mouse Aperiam 6656,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 249,82","17,02","16,08","14,29","R$ 368,21"
+Mouse A 2340,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 516,77","15,17","14,63","1,89","R$ 680,53"
+Mouse Amet 3867,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 478,18","10,49","14,3","8,51","R$ 637,41"
+Mouse Asperiores 9914,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 134,39","11,75","14,23","6,66","R$ 178,25"
+Mouse Nesciunt 1260,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 365,66","12,94","14,39","9,74","R$ 501,21"
+Mouse Laborum 4090,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 578,29","5,39","13,12","7,77","R$ 730,26"
+Mouse Modi 9203,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 114,77","16,62","16,22","3,22","R$ 156,16"
+Mouse Hic 4679,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 431,69","19,98","13,2","2,04","R$ 583,73"
+Mouse Necessitatibus 1214,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 298,62","18,48","14,67","1,32","R$ 401,55"
+Mouse Natus 5237,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 417,31","15,64","15,3","4,36","R$ 564,62"
+Mouse Consequuntur 4915,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 518,25","15,68","17,56","9,57","R$ 740,11"
+Mouse Ab 5923,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 329,82","6,82","13,21","2,08","R$ 402,74"
+Mouse Rem 8095,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 64,46","13,31","14,21","12,05","R$ 89,97"
+Mouse Quam 9039,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 121,37","18,26","12,39","5,97","R$ 165,82"
+Mouse Saepe 7843,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 339,13","16,54","16,94","1,11","R$ 456,44"
+Mouse Suscipit 5195,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 403,29","11,75","16,08","5,17","R$ 536,38"
+Mouse Beatae 9033,Mouse,"Mouse com desempenho confiável, ideal para setups gamers e profissionais.","R$ 401,89","7,73","17,8","6,49","R$ 530,58"
+Mousepad Modi 908,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 171,34","12,77","13,82","2,43","R$ 221,06"
+Mousepad Dolores 3695,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 88,82","19,11","17,37","12,69","R$ 132,49"
+Mousepad Neque 4106,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 63,37","19,35","13,65","9,38","R$ 90,23"
+Mousepad Reiciendis 8741,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 45,88","14,61","15,55","8,71","R$ 63,71"
+Mousepad Voluptates 2805,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 141,98","15,81","15,63","12,64","R$ 204,56"
+Mousepad Vitae 9235,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 37,00","17,96","12,49","14,23","R$ 53,53"
+Mousepad Velit 9450,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 74,99","8,16","15,43","9,27","R$ 99,63"
+Mousepad Saepe 497,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 114,67","14,41","13,74","14,35","R$ 163,40"
+Mousepad Quas 7913,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 71,63","17,11","14,44","6,8","R$ 99,10"
+Mousepad Laborum 982,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 56,87","11,23","14,79","5,1","R$ 74,57"
+Mousepad Explicabo 2354,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 83,14","15,78","16,41","12,91","R$ 120,64"
+Mousepad Fugiat 6533,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 52,23","10,56","15,37","4,79","R$ 68,28"
+Mousepad Quo 7643,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 50,83","11,74","12,85","0,76","R$ 63,72"
+Mousepad Asperiores 6294,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 176,91","11,27","17,78","13,53","R$ 252,24"
+Mousepad Consequatur 5365,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 188,74","15,82","13,14","2,39","R$ 247,91"
+Mousepad Necessitatibus 8434,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 109,36","18,19","14,98","1,35","R$ 147,11"
+Mousepad Eius 6443,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 115,93","19,5","13,29","5,29","R$ 160,08"
+Mousepad Dolor 829,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 77,83","13,96","17,06","10,09","R$ 109,83"
+Mousepad Non 4682,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 121,24","17,71","14,59","13,24","R$ 176,45"
+Mousepad Exercitationem 5993,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 159,86","10,49","14,4","8,55","R$ 213,32"
+Mousepad Consequuntur 3190,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 91,63","9,33","14,32","6,76","R$ 119,49"
+Mousepad Corporis 9009,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 77,55","19,84","16,08","1,78","R$ 106,79"
+Mousepad Ut 1585,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 96,96","16,92","14,03","14,08","R$ 140,62"
+Mousepad Aliquid 2364,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 63,84","12,64",15,"0,68","R$ 81,92"
+Mousepad Non 2246,Mousepad,"Mousepad com desempenho confiável, ideal para setups gamers e profissionais.","R$ 151,31","17,06","15,12","2,23","R$ 203,38"
+Headset Fugiat 8447,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 225,80","18,97","13,91","5,89","R$ 313,34"
+Headset Animi 4903,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 634,35","12,61","15,06","7,35","R$ 856,50"
+Headset Necessitatibus 9223,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 369,81","17,24","14,21","10,11","R$ 523,50"
+Headset Nam 6825,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 625,33","16,95","16,35","10,32","R$ 898,10"
+Headset Porro 437,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 637,22","8,98","15,93","14,58","R$ 888,86"
+Headset Maiores 9478,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 619,87","15,82","15,5","2,56","R$ 829,88"
+Headset Ratione 6230,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 233,00","15,21","12,19","14,22","R$ 329,97"
+Headset Consequuntur 1801,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 271,71","11,62","14,51","6,19","R$ 359,53"
+Headset Optio 3341,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 469,34","16,62","17,52","13,09","R$ 691,01"
+Headset In 1021,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 735,20","12,78","15,37","14,97","R$ 1.052,22"
+Headset Eos 7838,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 572,93","9,71","13,04","13,68","R$ 781,65"
+Headset Sed 5609,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 591,65","15,14","17,21","10,21","R$ 843,46"
+Headset Facilis 4332,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 649,07","7,88","13,48","8,37","R$ 842,04"
+Headset Natus 3685,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 947,34","19,73","16,63","10,57","R$ 1.391,93"
+Headset Quos 8012,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 385,34","10,23","17,6","11,93","R$ 538,55"
+Headset Iure 4481,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 359,01","13,6","15,26","13,44","R$ 510,87"
+Headset Illum 6465,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 836,54","19,32","16,83","4,36","R$ 1.175,42"
+Headset Praesentium 4713,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 959,78","6,19","17,54","9,84","R$ 1.281,98"
+Headset Incidunt 7850,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 292,59","17,42","13,63","8,43","R$ 408,10"
+Headset Placeat 4451,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 223,55","14,24","15,52","3,64","R$ 298,22"
+Headset Occaecati 8701,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 303,10","8,49","12,6","4,95","R$ 382,03"
+Headset Corporis 7740,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 190,49","16,56","12,03","8,26","R$ 260,69"
+Headset Iste 2588,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 466,22","19,03","17,27","7,16","R$ 668,84"
+Headset Dolores 3268,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 780,32","9,31","13,71","0,89","R$ 966,89"
+Headset Eligendi 1466,Headset,"Headset com desempenho confiável, ideal para setups gamers e profissionais.","R$ 687,07","8,48","16,43","12,75","R$ 945,82"
+Webcam Aperiam 612,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 556,61","7,63","17,29","2,64","R$ 710,01"
+Webcam Quam 596,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 598,59","10,95","14,97","14,05","R$ 837,85"
+Webcam Inventore 4743,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 538,37","5,14","15,41","1,61","R$ 657,67"
+Webcam Tempora 5490,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 242,28","19,84","15,26","7,41","R$ 345,27"
+Webcam Est 2199,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 525,53","12,02","13,16","1,69","R$ 666,74"
+Webcam Doloremque 2663,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 465,56","14,72","16,31","0,21","R$ 611,00"
+Webcam Voluptates 5524,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 495,38","13,52","16,54","2,63","R$ 657,32"
+Webcam Minima 6644,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 513,49","12,73","12,52","10,04","R$ 694,70"
+Webcam Libero 3028,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 590,84","12,16","17,61","0,1","R$ 767,32"
+Webcam Repellendus 6285,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 217,76","16,31","17,72","4,53","R$ 301,73"
+Webcam Consequuntur 9387,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 105,72","14,81","16,16","0,93","R$ 139,44"
+Webcam Corrupti 1937,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 332,70","7,4","16,12","13,85","R$ 457,03"
+Webcam Optio 5096,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 445,15","14,58","17,64","5,51","R$ 613,11"
+Webcam Cupiditate 3619,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 209,56",7,"12,92","11,22","R$ 274,82"
+Webcam Itaque 9925,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 286,81","15,53","17,48","11,36","R$ 414,07"
+Webcam Aut 3579,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 480,93","15,21","15,57","11,81","R$ 685,76"
+Webcam Qui 8610,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 323,37","15,56","12,47","8,46","R$ 441,37"
+Webcam Dolore 1012,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 514,39","18,54","13,21","8,05","R$ 719,12"
+Webcam Sit 2696,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 264,06","12,81","12,7","3,08","R$ 339,55"
+Webcam Molestias 9555,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 344,41","18,48","14,67","0,83","R$ 461,44"
+Webcam Accusantium 2162,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 356,62","11,85","12,35","6,94","R$ 467,67"
+Webcam Molestias 5050,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 461,64","10,94","16,9","11,19","R$ 641,82"
+Webcam Iusto 9476,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 136,51","11,36","16,2","8,12","R$ 185,22"
+Webcam Sed 988,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 567,29","6,04","17,6","0,48","R$ 704,12"
+Webcam Neque 6699,Webcam,"Webcam com desempenho confiável, ideal para setups gamers e profissionais.","R$ 189,99","7,03","15,85","10,94","R$ 254,24"
+Caixa de Som Magnam 6888,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 324,68","18,37","14,69","13,76","R$ 476,70"
+Caixa de Som Voluptate 6185,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 325,39","15,24","15,97","8,09","R$ 453,27"
+Caixa de Som Voluptate 5698,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 171,18","19,89","14,36","1,91","R$ 233,08"
+Caixa de Som Non 3649,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 600,89","16,34","17,87","6,95","R$ 848,22"
+Caixa de Som In 8921,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 354,48","10,69","13,38","6,91","R$ 464,30"
+Caixa de Som Voluptatibus 2542,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 265,39","19,06","16,35","1,69","R$ 363,85"
+Caixa de Som Dolorem 6869,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 468,95","19,04","17,33","3,61","R$ 656,44"
+Caixa de Som Minus 1103,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 160,54","5,5","15,59","10,55","R$ 211,33"
+Caixa de Som Corporis 798,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 246,84","5,66","14,63","8,1","R$ 316,92"
+Caixa de Som Maiores 925,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 184,08","19,9","13,4","13,75","R$ 270,69"
+Caixa de Som Vitae 9439,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 291,34","13,97","16,04","4,81","R$ 392,78"
+Caixa de Som Veritatis 4945,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 625,75","19,79","15,13","6,2","R$ 883,06"
+Caixa de Som Fugiat 4509,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 136,57","19,23","17,28","13,67","R$ 205,10"
+Caixa de Som Cupiditate 7000,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 433,51","5,7","14,07","9,65","R$ 561,05"
+Caixa de Som Optio 6245,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 571,48","9,78","14,5","2,24","R$ 723,04"
+Caixa de Som Sapiente 6168,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 210,33","13,07","13,45","3,38","R$ 273,22"
+Caixa de Som Suscipit 2366,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 583,47","18,72","15,37","14,52","R$ 867,09"
+Caixa de Som Odit 9131,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 418,00","10,83","13,53","4,95","R$ 540,52"
+Caixa de Som Expedita 1296,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 653,34","17,71","12,55","10,87","R$ 922,06"
+Caixa de Som Tempore 3121,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 130,92","10,66","15,63","0,59","R$ 166,11"
+Caixa de Som Architecto 1193,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 212,90","16,43","16,35","8,38","R$ 300,53"
+Caixa de Som Temporibus 7855,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 225,33","18,61","13,82","13,63","R$ 329,12"
+Caixa de Som Sint 3471,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 662,30","19,43","12,7","14,99","R$ 974,38"
+Caixa de Som Deserunt 7847,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 648,66","15,43","16,22","5,95","R$ 892,56"
+Caixa de Som Eligendi 3922,Caixa de Som,"Caixa de Som com desempenho confiável, ideal para setups gamers e profissionais.","R$ 431,25","16,63","14,28",8,"R$ 599,05"
+Estabilizador Reiciendis 5887,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 288,79","10,39","17,3","6,99","R$ 388,94"
+Estabilizador Laboriosam 7693,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 492,73","9,8","13,22","4,69","R$ 629,27"
+Estabilizador Veritatis 750,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 403,14","8,32","12,88","3,91","R$ 504,37"
+Estabilizador Fugit 9569,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 410,61","11,26","12,91","4,95","R$ 530,18"
+Estabilizador Dolorem 6224,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 406,41","8,69","15,3","14,15","R$ 561,41"
+Estabilizador Magnam 5531,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 265,80","17,32","17,8","9,63","R$ 384,75"
+Estabilizador In 8038,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 357,37","15,99","14,11","2,1","R$ 472,44"
+Estabilizador Earum 8955,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 369,74","18,75","15,25","9,63","R$ 531,06"
+Estabilizador Aliquid 963,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 385,77","17,59","12,45","12,27","R$ 548,99"
+Estabilizador Pariatur 795,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 493,95","11,19","17,06","3,47","R$ 650,63"
+Estabilizador Culpa 2475,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 154,11","12,59","14,24","9,27","R$ 209,74"
+Estabilizador Quae 7917,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 446,68","5,24","15,19","6,17","R$ 565,50"
+Estabilizador Doloribus 275,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 388,24","9,12","17,86","0,26","R$ 494,00"
+Estabilizador Sit 7055,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 512,78","18,65","12,64","1,44","R$ 680,61"
+Estabilizador Et 2440,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 258,44","14,3","13,51","5,32","R$ 344,06"
+Estabilizador Cumque 6503,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 185,56","19,39","14,75","3,65","R$ 255,68"
+Estabilizador Ipsa 3701,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 284,99","17,42","12,48","14,88","R$ 412,61"
+Estabilizador Repellat 520,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 192,08","10,69","15,32","0,84","R$ 243,65"
+Estabilizador In 155,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 466,28","6,24","17,07","9,67","R$ 620,06"
+Estabilizador Nemo 5428,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 404,64","17,87","12,57","7,92","R$ 559,86"
+Estabilizador Perspiciatis 698,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 253,39","18,52","16,15","8,5","R$ 362,78"
+Estabilizador Quis 4442,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 170,95","6,12","17,55","13,49","R$ 234,48"
+Estabilizador Adipisci 9233,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 446,15","7,69","17,1","0,23","R$ 557,78"
+Estabilizador Dolore 3395,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 414,17","16,28","16,28","5,97","R$ 573,75"
+Estabilizador Natus 1261,Estabilizador,"Estabilizador com desempenho confiável, ideal para setups gamers e profissionais.","R$ 284,67","13,46","15,4","12,74","R$ 403,09"
+No-break Omnis 8857,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 930,77","16,33","12,84","14,83","R$ 1.340,31"
+No-break Facilis 1285,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.201,27","19,61","12,32","6,56","R$ 1.663,64"
+No-break Pariatur 1246,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 944,95","16,54","17,73","5,95","R$ 1.325,01"
+No-break Hic 5348,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 447,40","9,1","17,96","7,36","R$ 601,40"
+No-break Adipisci 5830,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.284,86","10,63","13,11","8,79","R$ 1.702,82"
+No-break Laudantium 6228,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 537,11","14,28","16,79","10,7","R$ 761,46"
+No-break Iusto 1345,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 828,76","10,7","16,7","2,31","R$ 1.074,98"
+No-break Accusamus 6384,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 906,69","6,6","12,03","4,62","R$ 1.117,50"
+No-break Ea 5897,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.618,15","6,53","12,52","6,46","R$ 2.030,94"
+No-break Eum 9126,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.287,58","11,12","12,16","5,31","R$ 1.655,70"
+No-break Nam 1525,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.355,08","16,77","17,18","0,19","R$ 1.817,70"
+No-break Veritatis 6780,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.020,48","6,27","17,41","13,58","R$ 1.400,71"
+No-break Consequuntur 3978,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.315,14","7,54","14,28","2,08","R$ 1.629,46"
+No-break Officiis 4934,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 829,45","7,19",13,"4,14","R$ 1.031,26"
+No-break Nam 4912,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.174,77","6,15","13,51","3,7","R$ 1.449,20"
+No-break Iusto 8124,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.350,09","7,93","12,64","4,57","R$ 1.689,50"
+No-break Eaque 6484,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 931,55","14,3","16,82","4,94","R$ 1.267,47"
+No-break Repellat 5485,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.088,99","17,35","15,91","8,92","R$ 1.548,33"
+No-break Quidem 4923,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 913,06","19,21","13,21","4,71","R$ 1.252,08"
+No-break Quibusdam 6525,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.949,96","9,37","16,17","7,37","R$ 2.591,69"
+No-break Sit 9436,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.651,16","9,89","13,68","11,79","R$ 2.235,01"
+No-break Vero 5981,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 582,22","13,46","15,55","8,18","R$ 798,75"
+No-break Itaque 9013,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 443,07","15,91","17,66","3,14","R$ 605,72"
+No-break In 4774,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 1.730,05","6,04","17,09","11,93","R$ 2.336,61"
+No-break Dolores 8181,No-break,"No-break com desempenho confiável, ideal para setups gamers e profissionais.","R$ 622,69","9,54","13,52","2,31","R$ 780,67"
+Controlador RGB Non 6933,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 247,27","6,11","17,94","7,19","R$ 324,52"
+Controlador RGB Qui 6567,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 183,59","18,85","17,22","6,27","R$ 261,32"
+Controlador RGB Aliquid 603,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 247,68","10,39","17,37","8,05","R$ 336,37"
+Controlador RGB Tenetur 1393,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 77,34","8,72","15,99","2,5","R$ 98,38"
+Controlador RGB Repellat 726,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 190,81","14,68","15,88","14,5","R$ 276,79"
+Controlador RGB Necessitatibus 5433,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 291,43","11,46","12,06","3,88","R$ 371,28"
+Controlador RGB Nemo 8367,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 236,71","13,37","16,13","3,32","R$ 314,40"
+Controlador RGB Consectetur 6130,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 147,78","16,59","15,53","7,51","R$ 206,35"
+Controlador RGB Dolorem 5652,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 299,43","12,24","13,77","13,81","R$ 418,66"
+Controlador RGB Quasi 1407,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 79,02","19,11","12,85","4,68","R$ 107,97"
+Controlador RGB Adipisci 7461,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 246,07","12,82","14,09","1,46","R$ 315,88"
+Controlador RGB Tempore 7413,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 129,73","9,5","16,86","1,73","R$ 166,17"
+Controlador RGB Pariatur 5621,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 211,99","15,16","12,99","14,76","R$ 302,95"
+Controlador RGB Omnis 3997,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 179,00","13,28","13,99","6,4","R$ 239,27"
+Controlador RGB Blanditiis 7571,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 107,96","11,08","13,11","9,61","R$ 144,45"
+Controlador RGB Dolore 7081,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 148,90","16,06","17,3","6,74","R$ 208,61"
+Controlador RGB Voluptates 7038,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 147,21","15,57","13,23","11,28","R$ 206,21"
+Controlador RGB Libero 1026,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 194,34","16,99","15,22","5,49","R$ 267,61"
+Controlador RGB Autem 3229,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 164,39","8,94","17,18","7,92","R$ 220,35"
+Controlador RGB Fugit 5135,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 199,24","14,17","15,52","5,22","R$ 268,79"
+Controlador RGB Architecto 7502,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 204,34","17,21","16,24","4,46","R$ 281,81"
+Controlador RGB Eligendi 9670,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 71,19","7,01","12,71","4,58","R$ 88,49"
+Controlador RGB Eligendi 3000,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 143,33","7,12","14,33","8,95","R$ 186,90"
+Controlador RGB Quisquam 9418,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 145,93","7,79","15,81","10,4","R$ 195,55"
+Controlador RGB Delectus 2839,Controlador RGB,"Controlador RGB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 188,73","12,34","12,84","4,72","R$ 245,16"
+Suporte Monitor Natus 7390,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 278,21","17,98","17,71","7,27","R$ 397,73"
+Suporte Monitor Eum 3197,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 340,87","19,46","15,03","7,42","R$ 483,73"
+Suporte Monitor Quia 8057,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 213,00","17,6","14,93","1,24","R$ 284,93"
+Suporte Monitor Alias 506,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 334,68","8,31","12,2","3,37","R$ 414,60"
+Suporte Monitor Iusto 4730,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 133,83","11,86","16,46","11,49","R$ 187,11"
+Suporte Monitor Et 9007,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 243,46","13,59","13,61","8,15","R$ 329,52"
+Suporte Monitor Vitae 6011,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 253,45","16,35","16,56","6,62","R$ 353,64"
+Suporte Monitor Dicta 3581,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 396,73","6,54","16,98","11,27","R$ 534,75"
+Suporte Monitor Vero 4878,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 359,94","5,48","13,58","12,93","R$ 475,08"
+Suporte Monitor A 1426,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 220,50","19,91","16,65","3,55","R$ 308,94"
+Suporte Monitor Doloribus 9633,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 300,52","17,92","15,66","6,42","R$ 420,73"
+Suporte Monitor Est 2282,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 331,15","17,2","16,83","8,55","R$ 472,15"
+Suporte Monitor Nihil 8721,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 169,95","13,08","13,94","10,56","R$ 233,82"
+Suporte Monitor Officia 4741,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 263,28","19,29","15,09","13,5","R$ 389,34"
+Suporte Monitor Saepe 1561,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 123,39","16,25","14,47","0,89","R$ 162,39"
+Suporte Monitor Occaecati 4544,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 357,46","6,9","17,2","3,75","R$ 457,01"
+Suporte Monitor Similique 5278,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 345,11","16,42","16,06","7,34","R$ 482,53"
+Suporte Monitor Maxime 9461,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 282,37","14,42","14,25","1,13","R$ 366,52"
+Suporte Monitor Iusto 1526,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 208,91","16,25","16,17","13,16","R$ 304,13"
+Suporte Monitor Vitae 7450,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 384,08","9,91","12,01","11,61","R$ 512,86"
+Suporte Monitor Maxime 1527,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 313,90","11,88","15,98","5,37","R$ 418,21"
+Suporte Monitor Asperiores 1038,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 334,62","10,97","17,81","12,37","R$ 472,32"
+Suporte Monitor Vitae 8106,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 165,93","17,43","14,03","8,67","R$ 232,52"
+Suporte Monitor Nulla 9276,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 352,78","16,82","17,36","11,43","R$ 513,68"
+Suporte Monitor Cupiditate 753,Suporte Monitor,"Suporte Monitor com desempenho confiável, ideal para setups gamers e profissionais.","R$ 111,86","16,76","14,76","1,86","R$ 149,20"
+Hub USB Ipsa 2589,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 110,61","5,01","17,75","3,03","R$ 139,14"
+Hub USB Distinctio 2162,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 181,14","9,53","17,25","13,15","R$ 253,47"
+Hub USB Porro 1530,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 144,73","8,76","14,23","13,56","R$ 197,63"
+Hub USB Eveniet 2712,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 48,29","14,38","16,36","11,33","R$ 68,61"
+Hub USB Reprehenderit 7033,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 144,88","15,56","12,01","7,15","R$ 195,18"
+Hub USB Dolore 2175,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 134,99","12,79","14,67","0,12","R$ 172,22"
+Hub USB Debitis 5630,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 170,74","19,82","14,53","1,98","R$ 232,77"
+Hub USB Eius 1161,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 76,63","6,34","16,84","1,55","R$ 95,58"
+Hub USB Consequuntur 6023,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 180,96","7,06","16,64","11,3","R$ 244,30"
+Hub USB Exercitationem 2182,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 142,65","15,16","12,41","8,45","R$ 194,03"
+Hub USB In 2689,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 110,42","15,84","15,77","2,27","R$ 147,83"
+Hub USB Minima 6746,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 138,57","11,64","13,3","13,45","R$ 191,77"
+Hub USB Sed 2294,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 160,39","13,84","14,3","14,45","R$ 228,70"
+Hub USB At 5153,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 166,57","8,72","15,87","3,72","R$ 213,73"
+Hub USB Et 9847,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 136,00","14,11","16,67","10,36","R$ 191,95"
+Hub USB Numquam 4943,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 72,87","14,1","13,13","5,88","R$ 97,00"
+Hub USB Delectus 895,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 165,41","16,91","13,44","5,79","R$ 225,19"
+Hub USB Dolor 3950,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 119,93","13,91","15,17","14,67","R$ 172,40"
+Hub USB Ipsam 5917,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 189,43","6,98","17,16","8,53","R$ 251,32"
+Hub USB Ex 5987,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 127,42","7,59","14,83","14,81","R$ 174,86"
+Hub USB Aut 1196,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 42,67","6,01","13,57","0,6","R$ 51,28"
+Hub USB Earum 991,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 191,79","10,97","13,72","10,69","R$ 259,65"
+Hub USB Nisi 6807,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 107,77","11,03","15,84","8,06","R$ 145,41"
+Hub USB Eos 2502,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 84,39","9,65","15,07","3,05","R$ 107,83"
+Hub USB Dicta 2546,Hub USB,"Hub USB com desempenho confiável, ideal para setups gamers e profissionais.","R$ 125,82","10,86","15,81","12,52","R$ 175,13"
+Samsung Galaxy S25 Ultra,Smartphone,Smartphone topo de linha com câmera avançada e tela AMOLED 120Hz,"R$ 1.925,00",15,13,5,"R$ 2.560,25"
+Samsung Galaxy S25+,Smartphone,Versão intermediária da linha S25 com ótimo desempenho,"R$ 3.862,00",17,16,8,"R$ 5.445,42"
+Samsung Galaxy S25,Smartphone,"Modelo base da linha S25, equilibrado em recursos e preço","R$ 11.687,00",12,15,9,"R$ 15.894,32"
+Samsung Galaxy Z Fold 7,Smartphone Dobrável,Smartphone dobrável com duas telas AMOLED,"R$ 5.371,00",14,15,12,"R$ 7.573,11"
+Samsung Galaxy Z Flip 7,Smartphone Dobrável,Smartphone compacto dobrável em formato flip,"R$ 3.035,00",17,14,9,"R$ 4.249,00"
+Samsung Galaxy Watch 8,Wearable,Relógio inteligente com monitoramento de saúde e exercícios,"R$ 6.421,00",17,15,9,"R$ 9.053,61"
+Samsung Galaxy Book4 Ultra,Notebook,Notebook premium com Windows 11 e tela AMOLED,"R$ 11.859,00",17,12,7,"R$ 16.128,24"
+Samsung Galaxy Buds 3 Pro,Acessório,Fones de ouvido sem fio com cancelamento de ruído,"R$ 2.316,00",11,10,8,"R$ 2.987,64"
+Samsung Galaxy Tab S10 Ultra,Tablet,Tablet com tela AMOLED 14.6'' e suporte a S Pen,"R$ 4.917,00",12,11,11,"R$ 6.588,78"
+Samsung Galaxy Tab S10+,Tablet,Versão intermediária do Tab S10 com suporte multitarefa,"R$ 2.582,00",18,15,5,"R$ 3.563,16"
+Samsung Galaxy Tab S10,Tablet,Versão base da linha S10 com ótimo custo-benefício,"R$ 3.744,00",18,11,10,"R$ 5.204,16"
+Samsung Exynos 2500,Processador,Chipset de 4nm com foco em eficiência energética,"R$ 10.819,00",9,16,12,"R$ 14.822,03"
+Samsung Exynos 2600,Processador,Chipset de nova geração com IA avançada,"R$ 10.304,00",15,13,7,"R$ 13.910,40"
+Samsung Exynos Auto V920,Processador Automotivo,Processador para sistemas embarcados automotivos,"R$ 8.659,00",11,15,6,"R$ 11.429,88"
+Samsung Odyssey Neo G9,Monitor,Monitor gamer ultrawide 49'' com taxa de 240Hz,"R$ 9.524,00",14,10,3,"R$ 12.095,48"
+Samsung Smart Monitor M8,Monitor,Monitor multifuncional com apps integrados e controle remoto,"R$ 5.258,00",14,13,8,"R$ 7.098,30"
+Samsung SSD 990 Pro 2TB,Armazenamento,SSD NVMe PCIe 4.0 com alto desempenho,"R$ 11.327,00",6,14,6,"R$ 14.272,02"
+Samsung SSD T9 4TB,Armazenamento Externo,SSD portátil com velocidades de até 2000MB/s,"R$ 10.227,00",10,13,5,"R$ 13.090,56"
+Samsung Portable SSD T7 Shield,Armazenamento Externo,SSD portátil resistente a quedas,"R$ 3.138,00",6,12,5,"R$ 3.859,74"
+Samsung 990 EVO Plus 1TB,Armazenamento,SSD NVMe de última geração com ótimo custo-benefício,"R$ 5.072,00",9,13,4,"R$ 6.390,72"
+Samsung 870 EVO 2TB,Armazenamento,SSD SATA confiável para desktops e notebooks,"R$ 1.437,00",9,13,7,"R$ 1.853,73"
+Samsung QN90D Neo QLED,Smart TV,Smart TV 4K com tecnologia Mini LED,"R$ 1.826,00",15,13,3,"R$ 2.392,06"
+Samsung The Frame 55'',Smart TV,Smart TV que se transforma em obra de arte,"R$ 1.499,00",11,16,9,"R$ 2.038,64"
+Samsung HW-Q990D,Soundbar,Sistema de som premium Dolby Atmos,"R$ 6.837,00",8,11,9,"R$ 8.751,36"
+Samsung Galaxy Chromebook Go,Notebook,Chromebook leve e rápido com ChromeOS,"R$ 7.609,00",11,12,6,"R$ 9.815,61"
+Samsung Galaxy Book4 Pro,Notebook,Notebook fino com chip Intel de última geração,"R$ 9.188,00",15,16,7,"R$ 12.679,44"
+Samsung Galaxy Fit 3,Wearable,Pulseira fitness com monitoramento cardíaco,"R$ 7.045,00",17,13,11,"R$ 9.933,45"
+Samsung Galaxy SmartTag 2,Acessório,Dispositivo de rastreamento Bluetooth,"R$ 5.508,00",15,10,9,"R$ 7.380,72"
+Samsung Galaxy A35,Smartphone,Smartphone intermediário com ótimo custo-benefício,"R$ 7.450,00",15,10,8,"R$ 9.908,50"
+Samsung Galaxy M55,Smartphone,Smartphone da linha M com grande bateria,"R$ 9.107,00",15,13,9,"R$ 12.476,59"
+ASUS ROG Strix Z790-E,Placa-mãe,"Placa-mãe gamer para Intel 13ª geração, suporte DDR5 e PCIe 5.0","R$ 2.000,00",15,11,10,"R$ 2.720,00"
+ASUS TUF Gaming B650-PLUS,Placa-mãe,Placa-mãe robusta para AMD Ryzen com DDR5 e PCIe 5.0,"R$ 3.847,00",9,16,10,"R$ 5.193,45"
+ASUS ROG Crosshair X670E Hero,Placa-mãe,Placa-mãe entusiasta para AMD Ryzen série 7000,"R$ 13.859,00",14,12,4,"R$ 18.016,70"
+ASUS Prime H610M-K,Placa-mãe,Placa-mãe de entrada compatível com Intel 12ª geração,"R$ 1.515,00",12,18,7,"R$ 2.075,55"
+ASUS Dual GeForce RTX 4070,Placa de Vídeo,Placa de vídeo com sistema de refrigeração dupla,"R$ 3.825,00",13,13,8,"R$ 5.125,50"
+ASUS ROG Strix GeForce RTX 4080,Placa de Vídeo,Placa de vídeo topo de linha para jogos 4K,"R$ 13.486,00",14,15,6,"R$ 18.206,10"
+ASUS TUF Gaming RTX 4060 Ti,Placa de Vídeo,Placa de vídeo eficiente com bom custo-benefício,"R$ 3.570,00",11,10,4,"R$ 4.462,50"
+ASUS ROG Zephyrus G14,Notebook Gamer,Notebook gamer compacto com GPU RTX e Ryzen 9,"R$ 3.992,00",15,16,5,"R$ 5.429,12"
+ASUS TUF Gaming A15,Notebook Gamer,Notebook gamer acessível com Ryzen 7 e RTX 4060,"R$ 964,00",14,14,6,"R$ 1.291,76"
+ASUS ROG Flow X16,Notebook Gamer,Notebook conversível gamer com tela 16'' Mini LED,"R$ 5.261,00",10,13,6,"R$ 6.786,69"
+ASUS VivoBook 15,Notebook,Notebook fino e leve para uso diário com Intel i5,"R$ 6.408,00",11,14,10,"R$ 8.650,80"
+ASUS ZenBook Pro 16X OLED,Notebook,Ultrabook premium com tela OLED e teclado inclinado,"R$ 8.843,00",18,11,6,"R$ 11.938,05"
+ASUS ROG Swift PG32UQX,Monitor,Monitor gamer 32'' 4K HDR com G-Sync Ultimate,"R$ 7.632,00",8,10,6,"R$ 9.463,68"
+ASUS TUF Gaming VG27AQ,Monitor,Monitor gamer 27'' 2K com 165Hz e FreeSync,"R$ 13.235,00",9,11,4,"R$ 16.411,40"
+ASUS ProArt Display PA32UCX,Monitor,Monitor profissional 32'' HDR para criadores de conteúdo,"R$ 2.091,00",12,14,3,"R$ 2.697,39"
+ASUS ROG Chakram X,Mouse Gamer,Mouse gamer sem fio com joystick lateral integrado,"R$ 1.382,00",10,13,3,"R$ 1.741,32"
+ASUS TUF Gaming M4 Air,Mouse Gamer,Mouse ultraleve com design perfurado e sensor de alta precisão,"R$ 5.637,00",8,13,8,"R$ 7.271,73"
+ASUS ROG Claymore II,Teclado Gamer,Teclado mecânico modular com iluminação RGB,"R$ 4.544,00",6,12,5,"R$ 5.589,12"
+ASUS TUF Gaming K3,Teclado Gamer,Teclado mecânico acessível com switches duráveis,"R$ 1.661,00",10,13,8,"R$ 2.175,91"
+ASUS ROG Delta S Animate,Headset Gamer,Headset premium com animações LED e áudio de alta definição,"R$ 2.062,00",10,14,8,"R$ 2.721,84"
+ASUS TUF Gaming H3,Headset Gamer,Headset leve e confortável com som surround,"R$ 677,00",10,13,6,"R$ 873,33"
+ASUS ROG Loki 850W,Fonte,"Fonte de alimentação compacta e silenciosa, certificação Platinum","R$ 7.538,00",10,11,8,"R$ 9.724,02"
+ASUS ROG Thor 1200W,Fonte,Fonte de alimentação de alta potência com display OLED,"R$ 4.994,00",12,10,6,"R$ 6.392,32"
+ASUS TUF Gaming 750W,Fonte,Fonte confiável com certificação Bronze e design robusto,"R$ 5.343,00",13,11,9,"R$ 7.106,19"
+ASUS ROG Strix Helios,Gabinete,Gabinete premium em vidro temperado com iluminação RGB,"R$ 1.818,00",12,12,4,"R$ 2.327,04"
+ASUS TUF Gaming GT301,Gabinete,Gabinete compacto e funcional para setups gamers,"R$ 5.711,00",10,13,8,"R$ 7.481,41"
+ASUS ROG Ryujin II 360,Water Cooler,Sistema de refrigeração líquida com display LCD personalizável,"R$ 13.906,00",8,12,6,"R$ 17.521,56"
+ASUS TUF Gaming LC 240,Water Cooler,Water cooler eficiente com iluminação ARGB,"R$ 10.527,00",7,11,9,"R$ 13.369,29"
+ASUS ROG Rapture GT-AXE16000,Roteador,Roteador Wi-Fi 6E quad-band de alto desempenho,"R$ 3.188,00",11,16,5,"R$ 4.208,16"
+ASUS ZenWiFi AX (XT8),Roteador,Sistema mesh Wi-Fi 6 de alta cobertura,"R$ 11.724,00",8,16,6,"R$ 15.241,20"
+AMD Ryzen 9 7950X3D,Processador,Processador topo de linha com tecnologia 3D V-Cache,"R$ 14.915,00",10,17,5,"R$ 19.687,80"
+AMD Ryzen 7 7800X3D,Processador,Processador gamer de alto desempenho com 8 núcleos,"R$ 2.018,00",8,18,3,"R$ 2.603,22"
+AMD Ryzen 5 7600,Processador,Processador custo-benefício para desktops modernos,"R$ 3.569,00",12,15,8,"R$ 4.818,15"
+AMD Ryzen 7 5700G,Processador,Processador com gráficos integrados Vega para uso geral,"R$ 687,00",15,18,8,"R$ 968,67"
+AMD Ryzen Threadripper PRO 5995WX,Processador,Processador workstation com 64 núcleos,"R$ 4.906,00",12,10,8,"R$ 6.377,80"
+AMD EPYC 9654,Processador,Processador servidor com arquitetura Genoa de 96 núcleos,"R$ 10.332,00",9,15,4,"R$ 13.224,96"
+AMD Radeon RX 7900 XTX,Placa de Vídeo,Placa de vídeo topo de linha RDNA 3 para jogos 4K,"R$ 19.533,00",10,18,7,"R$ 26.369,55"
+AMD Radeon RX 7800 XT,Placa de Vídeo,Placa de vídeo de alta performance para 1440p,"R$ 18.121,00",16,16,8,"R$ 25.369,40"
+AMD Radeon RX 7700 XT,Placa de Vídeo,Placa de vídeo gamer custo-benefício RDNA 3,"R$ 12.043,00",13,12,8,"R$ 16.017,19"
+AMD Radeon RX 7600,Placa de Vídeo,Placa de vídeo de entrada para Full HD,"R$ 18.355,00",13,12,6,"R$ 24.045,05"
+AMD Radeon RX 6950 XT,Placa de Vídeo,Placa de vídeo topo RDNA 2 para jogos exigentes,"R$ 11.870,00",16,13,10,"R$ 16.499,30"
+AMD Radeon RX 6800 XT,Placa de Vídeo,Placa de vídeo para gamers entusiastas em 2K,"R$ 16.544,00",10,18,7,"R$ 22.334,40"
+AMD Radeon RX 6700 XT,Placa de Vídeo,Placa de vídeo intermediária para 1440p,"R$ 14.295,00",15,16,7,"R$ 19.727,10"
+AMD Radeon RX 6600,Placa de Vídeo,Placa de vídeo acessível para jogos em Full HD,"R$ 10.892,00",15,16,7,"R$ 15.030,96"
+ASRock X670E Taichi,Placa-mãe,Placa-mãe premium com chipset AMD para Ryzen série 7000,"R$ 17.406,00",10,13,4,"R$ 22.105,62"
+MSI MPG B650 Tomahawk WiFi,Placa-mãe,Placa-mãe robusta com suporte DDR5 e PCIe 5.0,"R$ 17.615,00",10,13,3,"R$ 22.194,90"
+Gigabyte AORUS X570 Master,Placa-mãe,Placa-mãe entusiasta com chipset AMD X570,"R$ 19.437,00",12,15,7,"R$ 26.045,58"
+ASUS TUF Gaming B550-PLUS,Placa-mãe,Placa-mãe custo-benefício para Ryzen 5000,"R$ 8.272,00",12,14,8,"R$ 11.084,48"
+Lenovo Legion 5 Pro (Ryzen 7 + RTX 4070),Notebook Gamer,Notebook gamer com AMD Ryzen e GPU dedicada NVIDIA,"R$ 19.828,00",13,14,5,"R$ 26.172,96"
+ASUS ROG Strix G15 Advantage Edition,Notebook Gamer,Notebook gamer com AMD Advantage (Ryzen + Radeon),"R$ 11.924,00",15,14,7,"R$ 16.216,64"
+HP Omen 16 (Ryzen 9 + Radeon RX 7700S),Notebook Gamer,Notebook gamer com combo AMD otimizado,"R$ 3.052,00",13,13,11,"R$ 4.181,24"
+Dell G15 Ryzen Edition,Notebook Gamer,Notebook gamer acessível com AMD Ryzen 7,"R$ 9.740,00",18,12,9,"R$ 13.538,60"
+AMD Radeon Pro W7900,Placa de Vídeo Profissional,Placa de vídeo para criação de conteúdo e CAD,"R$ 9.065,00",10,15,6,"R$ 11.875,15"
+AMD Radeon Pro W6800,Placa de Vídeo Profissional,Placa profissional para renderização e IA,"R$ 16.345,00",15,17,10,"R$ 23.209,90"
+AMD Ryzen 9 7945HX,Processador Mobile,Processador móvel de alto desempenho para notebooks gamers,"R$ 11.518,00",9,14,3,"R$ 14.512,68"
+AMD Ryzen 7 7840HS,Processador Mobile,Processador eficiente para notebooks ultrafinos,"R$ 931,00",13,11,8,"R$ 1.228,92"
+AMD Ryzen 5 7640HS,Processador Mobile,Processador intermediário para notebooks,"R$ 13.983,00",9,16,4,"R$ 18.038,07"
+AMD Wraith Prism Cooler,Cooler,Cooler oficial com iluminação RGB para CPUs Ryzen,"R$ 1.859,00",12,14,5,"R$ 2.435,29"
+AMD Wraith Spire Cooler,Cooler,Cooler compacto e silencioso para CPUs de médio desempenho,"R$ 8.351,00",9,14,5,"R$ 10.689,28"
+AMD Radeon Software Adrenalin,Software,Pacote oficial de drivers e otimizações para GPUs Radeon,"R$ 12.155,00",5,12,6,"R$ 14.950,65"
