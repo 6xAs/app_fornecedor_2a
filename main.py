@@ -73,6 +73,23 @@ with col2:
 st.subheader("📦 Informações do Produto")
 
 
+# Utilitário: converte string de moeda BR (ex: "R$ 1.234,56") para float
+def parse_moeda_brl(valor):
+    try:
+        if pd.isna(valor):
+            return 0.0
+    except Exception:
+        pass
+    if isinstance(valor, (int, float)):
+        return float(valor)
+    s = str(valor)
+    s = s.replace("R$", "").replace(" ", "").replace(".", "").replace(",", ".")
+    try:
+        return float(s)
+    except Exception:
+        return 0.0
+
+
 # Exibir informações do produto selecionado
 st.write(f"**Categoria** {produto_info['Categoria']}")
 st.write(f"**Descrição:** {produto_info['Descrição']}")
@@ -82,18 +99,20 @@ st.write(f"**ICMS (%):** {produto_info['ICMS (%)']}")
 st.write(f"**IPI (%):** {produto_info['IPI (%)']}")
 
 ## Esse é o cálculo do preço final
-st.markdown(f"### :orange[**Preço Final (R$):** {produto_info['Preço Final c/ Impostos (R$)']:.2f}] ")
+preco_final_num = parse_moeda_brl(produto_info['Preço Final c/ Impostos (R$)'])
+st.markdown(f"### :orange[**Preço Final (R$):** {formatar_preco(preco_final_num)}] ")
 
 
 # Adicionar ao carrinho
 if st.button("➕ Adicionar ao Carrinho"):
     try:
+        valor_unit_num = preco_final_num
         item = {
             "Produto": produto_selecionado,
             "Categoria": produto_info["Categoria"],
             "Quantidade": quantidade,
-            "Valor Unitário (R$)": produto_info["Preço Final c/ Impostos (R$)"],
-            "Valor Total (R$)": quantidade * produto_info["Preço Final c/ Impostos (R$)"]
+            "Valor Unitário (R$)": valor_unit_num,
+            "Valor Total (R$)": quantidade * valor_unit_num
         }
         st.session_state.carrinho.append(item)
         st.success("Produto adicionado ao carrinho.")
@@ -233,5 +252,4 @@ if st.session_state.carrinho:
         st.info("Seu carrinho está vazio.")
 else:
     st.info("Seu carrinho está vazio.")
-
 
