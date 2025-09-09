@@ -11,7 +11,7 @@ os.makedirs(vendas_dir, exist_ok=True)
 
 st.set_page_config(page_title="Fornecedor 2ºA", layout="wide")
 st.title("🛒 Sistema de Compras - Fornecedores 2ºA 🟠 - Teste Dev")
-st.title("E-mail: suporte.tds.systems@gmail.com")
+st.title("E-mail: suporte.tdsg.systems@gmail.com")
 
 
 # Estado do carrinho
